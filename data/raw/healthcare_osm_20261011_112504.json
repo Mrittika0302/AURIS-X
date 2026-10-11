@@ -1,0 +1,6361 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-11T05:53:13Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 247177822,
+  "lat": 11.1005451,
+  "lon": 76.9637445,
+  "tags": {
+    "amenity": "hospital",
+    "name": "SREC Health Center"
+  }
+},
+{
+  "type": "node",
+  "id": 321420767,
+  "lat": 11.0213634,
+  "lon": 76.9708723,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ellen Multispeciality Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 321420772,
+  "lat": 11.0201233,
+  "lon": 76.9710726,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "GP Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 321420833,
+  "lat": 11.0110912,
+  "lon": 76.9671438,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Dr.Nanjappa Road",
+    "addr:postcode": "641018",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Arunn Surgery",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 330069980,
+  "lat": 11.0028292,
+  "lon": 76.9513725,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Saravana Dental Care Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 330070075,
+  "lat": 11.0089752,
+  "lon": 76.9578034,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Senthil Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 330070077,
+  "lat": 11.0095256,
+  "lon": 76.9619316,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Vivekananda Road, Ram Nagar, Coimbatore - 641009",
+    "addr:postcode": "641009",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. S. G. Rajarathinam Hospital",
+    "phone": "+914222236730",
+    "source": "OpenGovernmentData",
+    "website": "https://dr-sg-rajarathnam-hospital.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 337604253,
+  "lat": 11.0004227,
+  "lon": 76.9715023,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Opp To Taluk Office, 5, Government Arts College Road, Coimbatore",
+    "addr:postcode": "641018",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "K. G. Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 343436821,
+  "lat": 11.0165542,
+  "lon": 76.9552390,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sengaliappan Nursing Home"
+  }
+},
+{
+  "type": "node",
+  "id": 803091648,
+  "lat": 10.9969296,
+  "lon": 76.9957050,
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Bala Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 832779637,
+  "lat": 11.0180580,
+  "lon": 76.9604883,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "11Th Street, Tatabad, Gandipuram, Coimbatore",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Kongunad Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 832779865,
+  "lat": 11.0184300,
+  "lon": 76.9604642,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Tatabad, Coimbatore, East Power House Road",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Sheela Clinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1039493036,
+  "lat": 11.0390101,
+  "lon": 76.9795170,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Anna Nagar,Ganapathy, Coimbatore, Sathy Main Road",
+    "addr:postcode": "641006",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Surya Hospital, Coimbatore",
+    "name:ta": "சூர்யா மருத்துவமனை",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1051328350,
+  "lat": 10.8927566,
+  "lon": 76.9246984,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Fair Pharma"
+  }
+},
+{
+  "type": "node",
+  "id": 1051328428,
+  "lat": 10.9560967,
+  "lon": 76.9540004,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Vasan eye Care Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1423948022,
+  "lat": 11.0188398,
+  "lon": 77.0073136,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "P.O. Box. No.1674,Peelamedu,Near Psg College Of Technology",
+    "addr:postcode": "641004",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "PSG Hospitals",
+    "name:ta": "பூ சா கோ மருத்துவமனை",
+    "source": "OpenGovernmentData",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1425221969,
+  "lat": 11.0261670,
+  "lon": 76.9499384,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "P.B.No -2750, Narayana Guru Hospital, Road Sai Baba Colony",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "K T V R Group Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1464278789,
+  "lat": 11.0149404,
+  "lon": 76.9543844,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "#1091, Mettupalayam Road ,North Coimbatore Bus Stop",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Coimbatore Bone and Joint Foundation (P) Ltd.",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1466917439,
+  "lat": 11.0337824,
+  "lon": 76.9517175,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Rs Puram, Near Flower Market, Sukrawar Pettai,Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Womens Medical Centre, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1467928839,
+  "lat": 10.9997961,
+  "lon": 76.9799441,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "232, Race Course Coimatore",
+    "addr:postcode": "641018",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "designation": "Hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Masonic Medical Centre For Children",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1468079158,
+  "lat": 11.0264568,
+  "lon": 76.9448591,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Somu medicals"
+  }
+},
+{
+  "type": "node",
+  "id": 1468079184,
+  "lat": 11.0265516,
+  "lon": 76.9443924,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Akila Medicals"
+  }
+},
+{
+  "type": "node",
+  "id": 1468079553,
+  "lat": 11.0256249,
+  "lon": 76.9372845,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Dr.U.S.Prakash's Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1469101395,
+  "lat": 11.0825506,
+  "lon": 76.9974220,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "KG Eye Hospital",
+    "source": "Self"
+  }
+},
+{
+  "type": "node",
+  "id": 1469149130,
+  "lat": 11.0441103,
+  "lon": 76.9856071,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Ganapathi, Coimbatore, Athipalayam Pirivu",
+    "addr:postcode": "641006",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Shree Siva Hospital, Ganapathy,",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1470953869,
+  "lat": 11.1293552,
+  "lon": 76.9351656,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kalpaviruksha Ayurvedic Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1472192499,
+  "lat": 11.0254581,
+  "lon": 76.9726262,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sai Shraddha Hospitality"
+  }
+},
+{
+  "type": "node",
+  "id": 1472211318,
+  "lat": 11.0144183,
+  "lon": 76.9437894,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vega ENT Hospitals"
+  }
+},
+{
+  "type": "node",
+  "id": 1472211741,
+  "lat": 11.0142906,
+  "lon": 76.9449521,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sitalakshmi Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 1472212062,
+  "lat": 11.0147975,
+  "lon": 76.9475002,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Manonmani Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 1472212557,
+  "lat": 11.0148238,
+  "lon": 76.9487649,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "48, Cowley Brown Road, R.S. Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "multi speciality",
+    "name": "Balaji Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1472215145,
+  "lat": 11.0152003,
+  "lon": 76.9498136,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Preetam's Cardio Care"
+  }
+},
+{
+  "type": "node",
+  "id": 1472215560,
+  "lat": 11.0152582,
+  "lon": 76.9519379,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Kumaran Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1472230522,
+  "lat": 11.0097731,
+  "lon": 76.9503293,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "558, D B Road R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "check_date": "2024-10-24",
+    "healthcare": "hospital",
+    "name": "Rasi Hospital",
+    "name:ta": "ராசி மருத்துவமனை",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1473802712,
+  "lat": 11.0193391,
+  "lon": 76.9635166,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "City Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1473802741,
+  "lat": 11.0190021,
+  "lon": 76.9620840,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Bethel Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1473830522,
+  "lat": 11.0105930,
+  "lon": 76.9502340,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Arasu Medicals"
+  }
+},
+{
+  "type": "node",
+  "id": 1473830523,
+  "lat": 11.0134549,
+  "lon": 76.9496753,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "582-A , D B Road, R, S, Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "health_specialty:optometry": "yes",
+    "healthcare": "hospital",
+    "name": "The Eye Foundaton",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1474413414,
+  "lat": 10.9943793,
+  "lon": 76.9664663,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Moses Eye Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1474451371,
+  "lat": 10.9935069,
+  "lon": 76.9756194,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Thayarammal poly clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1474518445,
+  "lat": 11.0124743,
+  "lon": 76.9862396,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No. 777, Puliyakulam Road, Laxmi Mills Jn, P N Palayam",
+    "addr:postcode": "641037",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Vasan Eye Care Hospital",
+    "name:en": "Vasan Eye Care Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1474518448,
+  "lat": 11.0094150,
+  "lon": 76.9893791,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "738-B, Pulia Klam Road Puliakulam",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Coimbatore Kidney Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 1474872830,
+  "lat": 10.9978977,
+  "lon": 76.9893923,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "name": "Clinic - Dr.Rajashree"
+  }
+},
+{
+  "type": "node",
+  "id": 1474923291,
+  "lat": 10.9414068,
+  "lon": 76.9369908,
+  "tags": {
+    "amenity": "hospital",
+    "name": "K. J. Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1913565236,
+  "lat": 11.0241826,
+  "lon": 76.9731186,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Sathy Main Road, Alamu Nagar Road, Near Gp Theatre, Gandhipuram",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ashwin Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 2465106156,
+  "lat": 11.1334592,
+  "lon": 77.0340488,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Aravindan Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3204361323,
+  "lat": 10.9956090,
+  "lon": 76.9917076,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Arya Vaidya Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 3781623526,
+  "lat": 10.9577130,
+  "lon": 76.9543156,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No 450-D, Palakkad Main Road, Kuniamuthoor",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Vasan Eye Care Hospital, Kuniamuthoor",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4078505530,
+  "lat": 11.0173902,
+  "lon": 76.9769123,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No. 238, Avarampalayam Road, Near Womens Poly Technic, Gandhipuram",
+    "addr:postcode": "641044",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Iswarya Fertility Test Tube Baby and Research Centre",
+    "name:en": "Iswarya Fertility Test Tube Baby and Research Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4185045390,
+  "lat": 11.0149765,
+  "lon": 76.9642774,
+  "tags": {
+    "addr:housenumber": "78",
+    "addr:street": "Gokale Street",
+    "amenity": "clinic",
+    "email": "claritymri@gmail.com",
+    "healthcare": "clinic",
+    "name": "Clarity Imaging Centre",
+    "name:en": "Clarity Imaging Centre",
+    "phone": "+91-422-2234848",
+    "website": "clarityimaging.net"
+  }
+},
+{
+  "type": "node",
+  "id": 4203547389,
+  "lat": 11.0234149,
+  "lon": 76.9103076,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Maruthamalai Road",
+    "amenity": "clinic",
+    "name": "Microbiological Laboratory",
+    "phone": "+91-422-4342018",
+    "website": "https://microlabindia.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4259650392,
+  "lat": 11.0018351,
+  "lon": 77.0328061,
+  "tags": {
+    "addr:street": "Tiruchi Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ortho One"
+  }
+},
+{
+  "type": "node",
+  "id": 4275430420,
+  "lat": 11.0827084,
+  "lon": 76.9427442,
+  "tags": {
+    "addr:city": "Thudiyalur",
+    "addr:district": "coimbatore",
+    "addr:place": "Thudiyalur",
+    "addr:place:ta": "துடியலூர்",
+    "addr:postcode": "641034",
+    "addr:state": "தமிழ்நாடு",
+    "addr:street": "Idikarai Road",
+    "addr:street:ta": "இடிகரை சாலை",
+    "amenity": "hospital",
+    "amenity:ta": "மருத்துவமனை",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Government Urban Primary Health Center",
+    "name:ta": "நகர்ப்புற அரசு ஆரம்ப சுகாதார நிலையம்",
+    "opening_hours": "sunrise-sunset",
+    "operator": "Government",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 4285718048,
+  "lat": 10.8840061,
+  "lon": 77.0066035,
+  "tags": {
+    "addr:block": "Madukkarai",
+    "addr:city": "Coimbatore",
+    "addr:district": "Coimbatore",
+    "addr:full": "Othakalmandapam, Coimbatore, Pollachi Main Road",
+    "addr:postcode": "641032",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Karpagam College Road",
+    "addr:subdistrict": "Coimbatore South",
+    "addr:suburb": "Othakkalmandapam",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Karpagam Faculty Of Medical Sciences And Research",
+    "operator": "Karpagam Medical College Hospital",
+    "phone": "0422-6464433, 6452888",
+    "source": "OpenGovernmentData",
+    "website": "https://kfmsr.in/"
+  }
+},
+{
+  "type": "node",
+  "id": 4315800697,
+  "lat": 11.0153158,
+  "lon": 76.9539881,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Cowley Brown Road, R S Puram West",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Cowley Brown Rd",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Aravind Eye Hospital (City Centre)",
+    "phone": "91-422-2540400",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4338438493,
+  "lat": 10.9923903,
+  "lon": 76.9934918,
+  "tags": {
+    "addr:housenumber": "1/150",
+    "addr:postcode": "641045",
+    "addr:street": "Nachi Angannan Thevar Street",
+    "amenity": "clinic",
+    "email": "sreerasa@gmail.com",
+    "healthcare": "clinic",
+    "name": "Acupuncture Home",
+    "opening_hours": "Mo-Sa 18:00-21:00",
+    "phone": "9894728979"
+  }
+},
+{
+  "type": "node",
+  "id": 4379089793,
+  "lat": 11.0140006,
+  "lon": 76.9543624,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No.5(2) Gajalakshmi Theatre Road Near Valarmathi Bus Stop",
+    "addr:postcode": "641601",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Venkitasamy Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Lotus Eye Care Hospital, Coimbatore",
+    "name:en": "Lotus Eye Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4402079982,
+  "lat": 11.0051924,
+  "lon": 76.9879176,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "ECHS"
+  }
+},
+{
+  "type": "node",
+  "id": 4402079983,
+  "lat": 11.0053321,
+  "lon": 76.9876533,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "ECHS Polyclinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4407829092,
+  "lat": 11.0248424,
+  "lon": 76.9564023,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Sivananda Colony, Tatabad",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name:en": "BKR Heart Center",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 4421640990,
+  "lat": 11.0247244,
+  "lon": 76.9055811,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Vadavalli-Thondamuthur Road, Marutha Nagar, Vadavalli",
+    "addr:postcode": "641041",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Thondamuthur Main road",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Baalaje Hospital",
+    "name:en": "Baalaje Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4426171975,
+  "lat": 11.0782349,
+  "lon": 76.9409348,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "A Unit 07, S L Hospital (P) Ltd. 61, Pongiammal St, Ratinapuri",
+    "addr:postcode": "641027",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "amenity:ta": "மருத்துவமனை",
+    "healthcare": "hospital",
+    "name": "Sri Lakshmi Hospital, Coimbatore",
+    "name:ta": "ஸ்ரீ லக்ஷ்மி மருத்துவமனை",
+    "operator:type": "private",
+    "phone": "+914222644133",
+    "source": "OpenGovernmentData",
+    "website": "https://www.smch.in/"
+  }
+},
+{
+  "type": "node",
+  "id": 4470920289,
+  "lat": 11.0085770,
+  "lon": 76.9563626,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "43, Sanmugam Road, Poo Market Bus Stop, Puthiyavan Nagar, Sukrawar Pettai, R.S. Puram, Rr Layout",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Shanmugam Road",
+    "addr:street:ta": "சண்முகம் சாலை",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name:en": "Rex Ortho Hospital",
+    "name:ta": "ரெக்ஸ் எலும்பியல் மருத்துவமனை",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4472726820,
+  "lat": 11.0148532,
+  "lon": 76.9489909,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "46, Cowley Brown Road, R.S.Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vijaya Hospitals",
+    "name:en": "Vijaya Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4510663590,
+  "lat": 11.0265248,
+  "lon": 76.9475939,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "80 N S R Road Saibaba Cilony",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "NSR Road",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Shri Hari Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4571552072,
+  "lat": 11.0354039,
+  "lon": 76.9304803,
+  "tags": {
+    "addr:city": "Coimbatore",
+    "addr:postcode": "641025",
+    "addr:street": "Kovilmedu Road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Bethesda Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4571573811,
+  "lat": 11.0335068,
+  "lon": 76.9294570,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:city": "Coimbatore",
+    "addr:district": "Coimbatore",
+    "addr:full": "13/82, A And B Thadagam Road, Kolimedu, Velandipalayam, Coimbatore",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Kovilmedu Road",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "amenity:ta": "மருத்துவமனை",
+    "healthcare": "hospital",
+    "name": "Kiruba Hospital, Koilmedu,Coimbatore",
+    "name:ta": "கிருபா மருத்துவமனை",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4603303688,
+  "lat": 11.0093491,
+  "lon": 77.0024216,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "30, Ram Gardens, Sowripalayam Road Udayampalayam",
+    "addr:postcode": "641028",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "G R Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4703147672,
+  "lat": 11.0080012,
+  "lon": 76.9362691,
+  "tags": {
+    "amenity": "hospital",
+    "name": "TNAU Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4815778337,
+  "lat": 11.0151259,
+  "lon": 76.9516784,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name:en": "Apollo Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4825348621,
+  "lat": 11.0876570,
+  "lon": 77.0033660,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name:en": "Vimal jothi"
+  }
+},
+{
+  "type": "node",
+  "id": 5104357826,
+  "lat": 10.9547118,
+  "lon": 76.9893223,
+  "tags": {
+    "amenity": "clinic",
+    "name:fr": "Dr Hari"
+  }
+},
+{
+  "type": "node",
+  "id": 5338403022,
+  "lat": 10.9842757,
+  "lon": 76.9297655,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Telugupalayam Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 5643927426,
+  "lat": 10.9969428,
+  "lon": 76.9993022,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Leo Ortho care Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 5774631561,
+  "lat": 11.0242987,
+  "lon": 76.9582327,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Sivananda Colony, Tatabad",
+    "addr:housenumber": "80",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Sivananda Colony Main Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Eye Trust Hospital",
+    "name:en": "Eye Trust",
+    "phone": "0422-4366927",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 5837579825,
+  "lat": 11.0217420,
+  "lon": 77.0190105,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name:en": "Microbiological Lab"
+  }
+},
+{
+  "type": "node",
+  "id": 6356067518,
+  "lat": 11.0092807,
+  "lon": 77.0240486,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "ESI Hospital",
+    "operator": "Employees' State Insurance",
+    "operator:short": "ESI",
+    "operator:type": "private",
+    "operator:wikidata": "Q3595726",
+    "operator:wikipedia": "hi:कर्मचारी राज्‍य बीमा निगम"
+  }
+},
+{
+  "type": "node",
+  "id": 6392075888,
+  "lat": 11.0794799,
+  "lon": 76.9409445,
+  "tags": {
+    "addr:place": "Thudiyalur",
+    "addr:street": "Thudialur to Kanuvai Road",
+    "alt_name": "baagerathi hospital",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "bhagirathi hospital",
+    "name:ta": "பாகீரதி மருத்துவமனை"
+  }
+},
+{
+  "type": "node",
+  "id": 6436701885,
+  "lat": 11.0206016,
+  "lon": 77.0182915,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name:en": "Ko Cosmetic"
+  }
+},
+{
+  "type": "node",
+  "id": 6483712485,
+  "lat": 11.0364256,
+  "lon": 77.0151010,
+  "tags": {
+    "addr:street": "Vilankuruchi Road",
+    "amenity": "clinic",
+    "name:en": "Bioline"
+  }
+},
+{
+  "type": "node",
+  "id": 6886497248,
+  "lat": 11.0004991,
+  "lon": 76.9716378,
+  "tags": {
+    "addr:district": "COIMBATORE",
+    "addr:full": "5, Government Arts College Road, Coimbatore",
+    "addr:postcode": "641018",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "contact:helpline": "Aircel-155/ Vodafone-255",
+    "contact:mobile": "9486499369",
+    "contact:phone": "04222212121; 04222212129",
+    "fax": "0422 2211212",
+    "healthcare": "hospital",
+    "name": "KG Hospital Blood Bank",
+    "opening_hours": "24/7",
+    "operator:type": "ngo",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6886497264,
+  "lat": 11.0184957,
+  "lon": 77.0069428,
+  "tags": {
+    "addr:district": "COIMBATORE",
+    "addr:full": "Avinashi Road, Kalluri Nagar, Peelamedu, PSG Medical College And Hospital Campus, Coimbatore",
+    "addr:postcode": "641004",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "contact:phone": "4222570170",
+    "email": "pathology@psgimsr.ac.in",
+    "healthcare": "hospital",
+    "name": "PSG Hospital Blood Bank",
+    "opening_hours": "24/7",
+    "operator:type": "ngo",
+    "source": "OpenGovernmentData",
+    "website": "https://www.psghospitals.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6914767991,
+  "lat": 11.0187223,
+  "lon": 76.9612328,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "223, Dr. Rajendra Prasad Road (100 Feet Road), Gandhipuram",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Bethel Hospital Pvt. Ltd. - Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914767996,
+  "lat": 11.0419411,
+  "lon": 77.0379131,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Kalapatti Main Road Near Sitra Civil Aerodrome Post",
+    "addr:postcode": "641014",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Park Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914880547,
+  "lat": 11.0291808,
+  "lon": 76.9019419,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "84/2, Alamaram Busstop,Vadavalli, Coimbatore, Maruthamalai Main Road",
+    "addr:postcode": "641041",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Mouthi Hospital Vadavalli, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914895660,
+  "lat": 11.0120021,
+  "lon": 76.9494063,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "69, West Venkatasamy Road, R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vikaram ENT Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914896216,
+  "lat": 10.9985560,
+  "lon": 76.9918562,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "1-B,Ariyan Soap Colony,Police Kandasamy Street,Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "R. A. Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914896226,
+  "lat": 11.0546916,
+  "lon": 77.0639178,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No. 78B, Kowai Road, Unnur",
+    "addr:postcode": "641653",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "R V Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914911765,
+  "lat": 10.9927872,
+  "lon": 76.9550228,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No. 608, Big Bazaar Street",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vasavi Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914927152,
+  "lat": 11.0218408,
+  "lon": 76.9152537,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "285-A Marudhamalai Main Rod , Mullai Nagar",
+    "addr:postcode": "641041",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "check_date": "2023-02-04",
+    "name": "Vallalar Hospitals (Pvt) Ltd",
+    "name:en": "Vallalar Hospitals (Pvt) Ltd",
+    "name:ta": "வள்ளலார் மருத்துவமனை",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914937646,
+  "lat": 10.9972817,
+  "lon": 76.9598213,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "297&298, D B Road, R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sri Ramana Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914937656,
+  "lat": 10.9949528,
+  "lon": 76.9755752,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "1,2, Sundaresa Lay-Out,Trichy Road",
+    "addr:postcode": "641018",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Sri Rani Poly Clinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6914937682,
+  "lat": 11.0474918,
+  "lon": 76.9930659,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Bharathi Nagar,Ganapathi, Coimbatore, Nehru Nagar,Police Qts Road",
+    "addr:postcode": "641006",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Sri Sakthi Hospital, Ganapathi, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6915000695,
+  "lat": 11.0116059,
+  "lon": 76.9606769,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "123, Sashtri Road, Ram Nagar",
+    "addr:postcode": "641009",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Sri Meru Nursing Home, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6915018746,
+  "lat": 11.0725350,
+  "lon": 77.0017429,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "12/93 A, Sathy-Mettupalayam South West Street, Sirumugai",
+    "addr:postcode": "641302",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Sri Loga Clinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6915018753,
+  "lat": 11.0891666,
+  "lon": 76.9384105,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "3/3318, Mtp Road, K.Vadamadurai",
+    "addr:postcode": "641017",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sri Maruthi Medical Center and Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6915358911,
+  "lat": 10.9627735,
+  "lon": 76.9574609,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "# 25, Rajagopal Nagar, Kuniamuthur, Opposite Kaveriammal Kalyana Mandapam",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "name": "Mallika Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6915464620,
+  "lat": 11.0150799,
+  "lon": 76.9517022,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "19,Cowley Brown Road, R.S Puram,Cbe-02",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Veeku Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6917388569,
+  "lat": 11.0631074,
+  "lon": 76.9985509,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "paediatrics",
+    "name": "Pranav Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 6926049956,
+  "lat": 10.9621270,
+  "lon": 76.9556397,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "414/1- Palakad Main Road",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Gowtham Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6926055606,
+  "lat": 11.0335424,
+  "lon": 77.0376261,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "18-G, Ashok Layout, Civil Aerodrome Road",
+    "addr:postcode": "641014",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "St Lukes Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6926369631,
+  "lat": 11.0264336,
+  "lon": 76.9423118,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "129, Narasimhanaicken Palayam",
+    "addr:postcode": "641031",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sri Guru Hospital Pvt Ltd",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6926437444,
+  "lat": 11.0418035,
+  "lon": 76.9477855,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "20/A, Coimbatore, Goundampalayam",
+    "addr:postcode": "641030",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "H. S. Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6928304820,
+  "lat": 11.0144375,
+  "lon": 76.9504979,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "New No.52 ,Old No.133 , East Bashyakaralu Road,R.S. Puram,End Of Maruthi Theatre Road",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vedanayagam Hospital (P) Limited",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6928594608,
+  "lat": 10.9986666,
+  "lon": 77.0143291,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "2100,Trichy Road, Rajalakshmi Mills Stop",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "VGM Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6928752789,
+  "lat": 11.0026291,
+  "lon": 77.0406497,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "687,Trichy Road ,Ramanathapuram, Opposite Alvernia School",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. Muthu's Ortho Centre-Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6928817376,
+  "lat": 11.0430968,
+  "lon": 76.9241157,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Plot No 1, Raju Garden, Thadagam Road, T V S Nagar, Edayarpalayam Post",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sree Abishek Hospitals",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6928852611,
+  "lat": 11.0560065,
+  "lon": 77.0164575,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Vilankurichi, Coimbatore, Bharathi Nagar",
+    "addr:postcode": "641035",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare:speciality": "diabetology;gynaecology",
+    "name": "Sree Andal Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6929292296,
+  "lat": 10.9958401,
+  "lon": 76.9915813,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Post Box No : 7012 ,Trichy Road ,Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "The Arya Vaidya Chikitsalayam and Research Institue",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6929951553,
+  "lat": 11.0417410,
+  "lon": 76.9835246,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Sathy Main Road, (Near Bsnal Exchange)Ganapathy",
+    "addr:postcode": "641006",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kovai Ent Hospital and Research Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6929976817,
+  "lat": 10.9589868,
+  "lon": 76.9788824,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "135-A Saradha Mill Road Sundarapuram",
+    "addr:postcode": "641024",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "name": "Koushikha Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6930487814,
+  "lat": 11.0545152,
+  "lon": 77.0652106,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Chinniampalayam Venkateshwara Hospital, Avinashi Road",
+    "addr:postcode": "641062",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Chinniampalayam Venkateshwara Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6932012014,
+  "lat": 10.9946605,
+  "lon": 76.9793813,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No.1287, Trichy Road, Opposite Icici Bank",
+    "addr:postcode": "641018",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Richmond Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6932159823,
+  "lat": 11.0290235,
+  "lon": 76.9320960,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Near Avila Convent,Velandipalayam, Coimbatore, Thadagam Road",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ranga Hospital, Velandipalayam",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6932162502,
+  "lat": 11.0185130,
+  "lon": 76.9445555,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "119, 120, West Periaswamy Road R S Puram u",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rao Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6932200240,
+  "lat": 11.0172440,
+  "lon": 76.9990446,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "10Th Cross, Thirumagal Nagar, Peelamedu, Pudur",
+    "addr:postcode": "641004",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Joseph Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6932203509,
+  "lat": 11.0136200,
+  "lon": 77.0222618,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "13/1, Bharathi Nagar, Kamarajar Road, Uppilipalayam Post",
+    "addr:postcode": "641015",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ramvel Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6933038573,
+  "lat": 10.9943683,
+  "lon": 76.9642074,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "37, Ismail Rowther Street",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Immaculate Conception Convent Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6933048462,
+  "lat": 11.0898944,
+  "lon": 76.9423681,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "5/33, Nggo Colony Mettupalayam Road",
+    "addr:postcode": "641022",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Sree Ramm Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6933115102,
+  "lat": 11.0321465,
+  "lon": 76.9761197,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Ganapathy, Coimbatore, Raju Naidu Street No.2",
+    "addr:postcode": "641006",
+    "addr:state": "Tamil Nadu",
+    "alt_name": "Paari Hospital",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Paari Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6933992416,
+  "lat": 10.9553739,
+  "lon": 76.9898473,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "7A, Pothanur,Near Muthoot Finance, Coimbatore, Chettipalayam Road",
+    "addr:postcode": "641023",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "name": "S.M.Clinic, Podhanur, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934018833,
+  "lat": 11.0091245,
+  "lon": 76.9454058,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "81/83, T V Sami Road West, Opp To Kamatchiamman Temple, R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vasan Eye Care Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934039564,
+  "lat": 10.9980729,
+  "lon": 77.0001926,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No-17-A,Sowripalayam Pirivu Road, Ramanathapuram, Trichy Road",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Sri Durga Poly Clinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934126430,
+  "lat": 11.0597504,
+  "lon": 76.9441089,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "11-H, S.M. Palayam Road, G.N. Mills (Po)",
+    "addr:postcode": "641029",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "name": "Parthiban Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934150425,
+  "lat": 11.0276019,
+  "lon": 76.9415045,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Old No: 3, New No: 15 Chinnammal Street, Kk Pudur",
+    "addr:postcode": "641038",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Siloam Thomas Eye Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934246107,
+  "lat": 11.0424742,
+  "lon": 76.9476856,
+  "tags": {
+    "addr:block": "Tiruppur Corp",
+    "addr:district": "Tiruppur",
+    "addr:full": "Mangalam Rd, Karuvampalayam, Tiruppur",
+    "addr:postcode": "641687",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Avanashi",
+    "amenity": "hospital",
+    "name": "Krithika Hospital , Tiruppur",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934271130,
+  "lat": 11.0406116,
+  "lon": 77.0401856,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "770, 12, Avinashi Rd, Tnhb Colony, Indira Nagar, Civil Aerodrome Post, Peelamedu",
+    "addr:postcode": "641014",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Lotus Eye Care Hospital Ltd, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934340596,
+  "lat": 11.0168636,
+  "lon": 76.9756664,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "41,Bharathiyur Road,New Siddhapudur,Coimbatore",
+    "addr:postcode": "641044",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Nandha Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934340612,
+  "lat": 10.9941010,
+  "lon": 76.9569379,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "14/11-A, Bazaar Street, Madukkarai",
+    "addr:postcode": "641105",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Nataraj Medical Care Center Private Limited",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934340734,
+  "lat": 10.9962048,
+  "lon": 77.0082217,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "657, Trichy Road, Singanallur, Opp To Andal Kalyana Mandapam",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ortho One Orthopaedic Speciality Center(A Unit Of Spine Arthroscopic and Joint Replacement Center Pvt Ltd)",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934340771,
+  "lat": 11.0427427,
+  "lon": 76.9477212,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "5 / 25, M T P Road, Kavundampalayam",
+    "addr:postcode": "641030",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Padmavathy Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934424352,
+  "lat": 11.0026950,
+  "lon": 76.9513442,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "356, D.B.Road, R.S.Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Shree Saravana Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934430447,
+  "lat": 11.0265389,
+  "lon": 76.9470734,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "109, N.S.R. Road, Near Pullamaram Bus Stop Sai Baba Colony",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vishnu Ent Hospital - Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934690377,
+  "lat": 10.9046622,
+  "lon": 76.9596114,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "#6/1, Vandiyamman Kovil,Near Bridge,Madukkarai",
+    "addr:postcode": "641105",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "name": "Senthil Nursing Home, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934738477,
+  "lat": 11.0190567,
+  "lon": 76.9625585,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "#205 100 Feet Road Tatabad",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "The Balakrishnan Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6934957192,
+  "lat": 11.0089711,
+  "lon": 76.9989473,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "1, Karthik Nagar, Sowripalayam Road",
+    "addr:postcode": "641028",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Swathi Poly Clinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6935186143,
+  "lat": 11.0107950,
+  "lon": 76.9617350,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "90,Vivekananda Road,Senguptha Steet Junction,Ram Nagar",
+    "addr:postcode": "641007",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ponnammal Duraisamy Eye Clinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6935188981,
+  "lat": 10.9636030,
+  "lon": 76.9563907,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "5/402-H,Kuniamuthur",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Sangeetha Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6935272584,
+  "lat": 10.9957861,
+  "lon": 76.9876988,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "101/67, Karunanithi Nagar,Behind Sungam Chinthanmani,Thirchy Road",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Karthick Polyclinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936305098,
+  "lat": 10.9446403,
+  "lon": 76.9352093,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "U 80, Kovaipudur",
+    "addr:postcode": "641014",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Priya Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936310680,
+  "lat": 11.0261493,
+  "lon": 77.0176752,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "467 A, Peelamedu, Coimbatore, Vilankurichi Road",
+    "addr:postcode": "641004",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sumith Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936339717,
+  "lat": 11.0270299,
+  "lon": 77.0187333,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Peelamedu, Coimbatore, Gandhiji Stret",
+    "addr:postcode": "641004",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rajah Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936359924,
+  "lat": 11.0174139,
+  "lon": 76.9617565,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "828-A Cross Cut Road Power House Gandhipuram",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Lalitha Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936359961,
+  "lat": 11.0196820,
+  "lon": 76.9947731,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "S F No 522/3, Udayampalayam Road, Nava India, Hindustan College Road",
+    "addr:postcode": "641028",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hindusthan Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936359967,
+  "lat": 11.0150812,
+  "lon": 76.9513200,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Cowley Brown Road, R.S.Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kumaran Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936443894,
+  "lat": 11.0133673,
+  "lon": 76.9553728,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Srivari Kikani Centre,R.S.Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sankara Eye Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936582309,
+  "lat": 11.0209812,
+  "lon": 76.9661131,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "272, 7th Street Extension, Gandhipuram, Coimbatore",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "C.S.R. Nursing Home, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936609173,
+  "lat": 11.0137122,
+  "lon": 76.9513160,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "137 East Periasamy Road, R.S. Puram",
+    "addr:postcode": "641018",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Madurai Eye Center",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936663154,
+  "lat": 11.0142295,
+  "lon": 76.9437897,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "#30, Guru Govind Singh Road Off.,Cowley Brown Road,R. S. Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vega Ent Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936677079,
+  "lat": 11.0143493,
+  "lon": 76.9614293,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "50,Vivekanandha Road,Rama Nagar, Opposite Meena Eye Hospital",
+    "addr:postcode": "641009",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Spt Hospitals",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936695107,
+  "lat": 11.0081878,
+  "lon": 76.9578948,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "5/25, Mattupalyam Road, Kavundampalyam",
+    "addr:postcode": "641030",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr K Padmavathy Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936696197,
+  "lat": 11.0706896,
+  "lon": 76.9420054,
+  "tags": {
+    "addr:block": "Periyanaickenpalayam",
+    "addr:city": "Thudiyalur",
+    "addr:country": "IN",
+    "addr:district": "Coimbatore",
+    "addr:full": "76/A, Thudiyalur, Near Vidyavikas School, Coimbatore, Mettupalayam Main Road",
+    "addr:housenumber": "76/A",
+    "addr:postcode": "641034",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Coimbatore-Mettupalayam Road",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "building:use": "medical",
+    "healthcare": "hospital",
+    "name": "V. G. Hospital, Thudiyalur",
+    "name:ta": "வி.ஜி.மருத்துவமனை",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936708011,
+  "lat": 11.0369490,
+  "lon": 76.9279580,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "16, Shivaji Colony Edayarpalyam",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sri Vishnu Priyaa Hospitals Pvt Ltd",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936708037,
+  "lat": 10.9561995,
+  "lon": 76.9541618,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "450-D, Palaghat Main Road, Kuniamuthur",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Aparna Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936708084,
+  "lat": 10.9875620,
+  "lon": 76.9358088,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "5-1, Venkateshwara Layout, Lic-Colony, Selvapuram",
+    "addr:postcode": "641026",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Snekaram Multi Specality Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6936794080,
+  "lat": 11.0031531,
+  "lon": 76.9513019,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "361, D B Road R S Puram R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Maruthi Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6937401730,
+  "lat": 11.0177943,
+  "lon": 76.9612482,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "263, Annamalai Nagar,Sowripalayam",
+    "addr:postcode": "641028",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Roselet Medical ObgandSurgical Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6937449595,
+  "lat": 10.9909191,
+  "lon": 76.9529521,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "158, Karuppa Gounder Street",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Karthic Nursing Home Pvt. Ltd.",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6937477838,
+  "lat": 11.0061296,
+  "lon": 76.9475555,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "64,Arokiasamy Road(West),R.S.Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "K.M. Polyclinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6937527640,
+  "lat": 11.0060677,
+  "lon": 76.9525994,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "7,Ramachandra Road,R.S.Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sruti Hospitals",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7210911318,
+  "lat": 11.0450728,
+  "lon": 76.9856121,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "61, Sathy Rd, Ganapathy, Athipalayam Pirivu, Sri Laxmi Nagar, Ganapathypudur, Coimbatore",
+    "addr:postcode": "641006",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Shree Sivaa Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7210920536,
+  "lat": 11.0246121,
+  "lon": 76.9119490,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "No:11/8, Selvam Nagar, Vadavalli",
+    "addr:postcode": "641043",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "check_date": "2023-02-04",
+    "healthcare:speciality": "general",
+    "name": "Aroghya Nursing Home",
+    "operator:type": "private",
+    "source": "OpenGovernmentData;local knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7210924997,
+  "lat": 11.0340354,
+  "lon": 76.9512209,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "281, NSR Rd, Kuppakonam Pudur, Saibaba Colony",
+    "addr:postcode": "641043",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. BRJ Ortho Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155919,
+  "lat": 11.0719600,
+  "lon": 77.0024440,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "No: 103, Sathy Road, Near Kalapatti Pirivu, Poonthottam Nagar, Saravanampatti, Coimbatore",
+    "addr:postcode": "641035",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Geethasree Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155922,
+  "lat": 11.0277947,
+  "lon": 77.1298133,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "160, Trichy Rd, Mathiyalagan Nagar, Sulur",
+    "addr:postcode": "641402",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Balaji Hospital, Sulur",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155935,
+  "lat": 11.0498400,
+  "lon": 76.9188620,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "11/40A, Edayarpalayam, Coimbatore, Thadagam Road",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "check_date": "2025-09-29",
+    "name": "J.M.Hospital, Edayarpalayam",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155938,
+  "lat": 11.0478800,
+  "lon": 76.9719760,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "12/1, Tagore Rd, Poosaripalayam, Manikarampalayam, Ganapathypudur",
+    "addr:postcode": "641006",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "AR Medical Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155948,
+  "lat": 11.0778000,
+  "lon": 77.0356810,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Saravanampatti - Kalapatti Road, Kalapatti, Coimbatore",
+    "addr:postcode": "641048",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Kamalaprakasam, Kalapatti",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155969,
+  "lat": 11.0476100,
+  "lon": 77.0001150,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "No 17, Police Quarters Rd,Ganapathy, Coimbatore, V.O.C. Nagar",
+    "addr:postcode": "641006",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "SS Hospital Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155978,
+  "lat": 11.0596676,
+  "lon": 76.9971511,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Mettupalayam, Coimbatore, Bharath Bhavan Road",
+    "addr:postcode": "641301",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Mettupalayam",
+    "amenity": "clinic",
+    "name": "Rg Clinic , Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155979,
+  "lat": 11.1443519,
+  "lon": 77.1325092,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Pappampatti Road, Coimbatore, Vagarayampalayam",
+    "addr:postcode": "641659",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Vagai Government Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257155982,
+  "lat": 11.0757442,
+  "lon": 76.9424139,
+  "tags": {
+    "addr:block": "Periyanaickenpalayam",
+    "addr:district": "Coimbatore",
+    "addr:full": "Thudiyalur, Coimbatore, Vishwanathapuram",
+    "addr:postcode": "641034",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hem Hospital- Thudiaylur, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156002,
+  "lat": 11.0703318,
+  "lon": 77.0005452,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Near Gks Bus Stop, Coimbatore, Vgv Janani Nagar,Saravanampatti",
+    "addr:postcode": "641035",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Harini Shravan, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156011,
+  "lat": 11.0753938,
+  "lon": 76.9392340,
+  "tags": {
+    "addr:block": "Periyanaickenpalayam",
+    "addr:district": "Coimbatore",
+    "addr:full": "Mettupalayam Road, Near Lg Company, Thudiyalur",
+    "addr:postcode": "641034",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ramana Gounder Medical Trust Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156015,
+  "lat": 11.0725100,
+  "lon": 76.8715370,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "1/182, Thadagam Road, Perinayakkanpalayam, Coimbatore, Chinna Thadagam",
+    "addr:postcode": "641108",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Bishop Walsh Memorial Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156017,
+  "lat": 11.0437293,
+  "lon": 76.9475494,
+  "tags": {
+    "addr:block": "Periyanaickenpalayam",
+    "addr:district": "Coimbatore",
+    "addr:full": "Goundampalayam, Coimbatore, Peons Colony",
+    "addr:postcode": "641030",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "name": "Malar Hpl Goundanpalayam",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156018,
+  "lat": 11.0904781,
+  "lon": 76.9383967,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "7/328, Thoppampatti Pirivu, Coimbatore, Mettupalayam Road.",
+    "addr:postcode": "641017",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sai Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156021,
+  "lat": 11.0808800,
+  "lon": 76.8693370,
+  "tags": {
+    "addr:block": "Periyanaickenpalayam",
+    "addr:district": "Coimbatore",
+    "addr:full": "Chinna Thadagam, Coimbatore, Pannimadai Road",
+    "addr:postcode": "641108",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "name": "Pavithra Medical Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156023,
+  "lat": 11.0564200,
+  "lon": 77.0019720,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Vinayagapuram, Coimbatore, Vilankurichi Road",
+    "addr:postcode": "641035",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "V.R.Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156045,
+  "lat": 11.0287000,
+  "lon": 76.8974490,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Vadavalli, Coimbatore, Mahaveer Road",
+    "addr:postcode": "641041",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Sree Subiksha Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156048,
+  "lat": 11.0892000,
+  "lon": 77.0083660,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Near Visuvasapuram Busstop, Coimbatore, Sathu Main Raod,Saravanampatti",
+    "addr:postcode": "641035",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vimal Jothi Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257156060,
+  "lat": 11.1339000,
+  "lon": 77.0340880,
+  "tags": {
+    "addr:block": "Sarkar Samakulam",
+    "addr:district": "Coimbatore",
+    "addr:full": "Koilpalayam, Coimbatore, Sathy Road",
+    "addr:postcode": "641107",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "name": "Sampath Hospital ,S.S.Kulam",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257166752,
+  "lat": 10.9026500,
+  "lon": 76.9975860,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Settipalayam, Malumichampatti",
+    "addr:postcode": "641050",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Ambal Malumichampatty, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257166779,
+  "lat": 10.9037986,
+  "lon": 76.9635381,
+  "tags": {
+    "addr:block": "Madukkarai",
+    "addr:district": "Coimbatore",
+    "addr:full": "Madukkarai, Annanagar",
+    "addr:postcode": "641105",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Government Hospital, Madukkarai",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257166809,
+  "lat": 10.9042796,
+  "lon": 76.9586654,
+  "tags": {
+    "addr:block": "Madukkarai",
+    "addr:district": "Coimbatore",
+    "addr:full": "Palathurai Road,Madukkarai",
+    "addr:postcode": "641105",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Natraj Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257166815,
+  "lat": 10.9536500,
+  "lon": 76.9559890,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Edayarpalayam Pirivu,Kuniyamuthur, Coimbatore, Lakshmi Nagar",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "I.J.Hospital, Kuniayamuthur, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257166877,
+  "lat": 10.9525400,
+  "lon": 76.9732010,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "No. 33, Madukkarai Main Rd, Sundarapuram",
+    "addr:postcode": "641024",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Abirami Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257166879,
+  "lat": 10.9521673,
+  "lon": 76.9758815,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Sundarapuram, Lic Colony, Coimbatore",
+    "addr:postcode": "641024",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Ganapathy Pc Sundarapuram,",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183906,
+  "lat": 11.0108047,
+  "lon": 76.9530054,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R.S.Puram, Coimbatore, Tv Samy Road East",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ponnaiah Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183907,
+  "lat": 10.9871756,
+  "lon": 76.9392029,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Selvapuram, Coimbatore, Perur Main Road",
+    "addr:postcode": "641026",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rani Nursing Home, Selvapuram, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183911,
+  "lat": 11.0064832,
+  "lon": 76.9914482,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Puliyakulam,Near Mahindra Pumps, Coimbatore, Dhamu Nagar",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Shree Hospital, Puliakulam, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183913,
+  "lat": 10.9567349,
+  "lon": 76.9544328,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Kuniyamuthur, Coimbatore, Palakkad Main Road",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Sri Meenakshi Hospital, Kuniamuthur",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183914,
+  "lat": 11.0029000,
+  "lon": 76.9488690,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Rs Puram, Near Maruthi Lodge, Coimbatore, Venkatakrishna Road",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Shanmuga Hospital Rs Puram",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183915,
+  "lat": 11.0247544,
+  "lon": 77.1228621,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Sulur Government Hospital, Near Bus Stand, Somanur, Trichy Road",
+    "addr:postcode": "641402",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Sulur",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Government Hospital, Sulur",
+    "name:ta": "சூலூர் அரசு மருத்துவமனை",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183916,
+  "lat": 11.0011000,
+  "lon": 77.0337330,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "D.No.569, Vasantha Mill Bus Stop, Singanallur, Trichy Road, Anaiyankadu Road",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Singanallur Government Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183917,
+  "lat": 10.9664096,
+  "lon": 76.9870623,
+  "tags": {
+    "addr:block": "Madukkarai",
+    "addr:district": "Coimbatore",
+    "addr:full": "Corporation Office, Podanur, Satthiram Veethi",
+    "addr:postcode": "641023",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Podanur Government Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183920,
+  "lat": 10.9972946,
+  "lon": 77.0051728,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Opposite To Stock Exchange Trichy Road Kothari Layout, Coimbatore, Oppst Stock Exchange",
+    "addr:postcode": "661005",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Medwin Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183925,
+  "lat": 11.0168278,
+  "lon": 76.9758131,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "17A, Rs Puram, Near Kumaran Hpl, Coimbatore, Cowley Brown Road",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sudha Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183926,
+  "lat": 10.9958251,
+  "lon": 76.9634777,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Town Hall, Coimbatore, Ismail Street",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "I.C.C Hospital For Women & Children, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183942,
+  "lat": 10.9638671,
+  "lon": 76.9712200,
+  "tags": {
+    "addr:block": "Madukkarai",
+    "addr:district": "Coimbatore",
+    "addr:full": "415, Kupuchipalayam Road, M.T.P Road, Near Ration Shop, P.N. Palayam, Coimbatore",
+    "addr:postcode": "641021",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Government Hospital, Kuruchi",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183943,
+  "lat": 11.0217448,
+  "lon": 77.0603524,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Near Railway Gate, Coimbatore, Gandhi Nagar, Irugur",
+    "addr:postcode": "641103",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Peoples Medical Centre, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183944,
+  "lat": 10.9998322,
+  "lon": 76.9496040,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "D.No. 233, Sundaram Street-1, Near Park, Sukkarawarpet, Coimbatore, Gandhipark Bus Stop",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Rk Bai Corporation Health Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183946,
+  "lat": 10.9981900,
+  "lon": 77.0144470,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "76/A, Coimbatore, Singanallur",
+    "addr:postcode": "641020",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "VGM Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183957,
+  "lat": 11.0128764,
+  "lon": 76.9492706,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "43, E Periasamy Rd, Near Eye Foundation, R S Puram West, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Gateway Clinic",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183959,
+  "lat": 11.0100500,
+  "lon": 77.0088740,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Opposite To Water Tank, Coimbatore, Car Street, Sowripalayam",
+    "addr:postcode": "641028",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Roselet Medical Centre,Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183960,
+  "lat": 10.9913500,
+  "lon": 76.9541600,
+  "tags": {
+    "addr:block": "Edapadi (Idappadi)",
+    "addr:district": "Salem",
+    "addr:full": "Salem Main Road, Edappady, Poolampatti",
+    "addr:postcode": "637101",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Edappadi",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Karthic Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183964,
+  "lat": 11.0254441,
+  "lon": 76.9397240,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Opp Church Road, Coimbatore, Nsr Road, Saibaba Colony",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sabari Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183965,
+  "lat": 10.9566500,
+  "lon": 76.9870190,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "41A, Chettipalayam Rd, Mettur, Podanur",
+    "addr:postcode": "641023",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Raksha Medical Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183966,
+  "lat": 11.0067511,
+  "lon": 76.9452484,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Thadagam Main Rd, Gandhi Park, R S Puram West, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr.Manoharan Hospital, Thadagam, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183971,
+  "lat": 11.0225148,
+  "lon": 76.9601579,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "454-A, Tatabad, Gandhipuram, Coimbatore, Dr.Radhakrishnan Road",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sengottaiah Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183972,
+  "lat": 10.9641042,
+  "lon": 76.9562562,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "402-H, Thiruvalluvar Nagar,Kuniyamuthur, Coimbatore, Pallakad Main Road",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Sangeetha Hospital, Kuniyamuthur",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183974,
+  "lat": 10.9994100,
+  "lon": 76.9484950,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Near Gandhi Park, Coimbatore, Ponnaiyarajapuram",
+    "addr:postcode": "641007",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Seetharam Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183976,
+  "lat": 11.0208486,
+  "lon": 76.9649585,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "100 Feet Rd, Opposite C.S.I.Church, Near Abhirami Hotel, Gandipuram",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Preethi Medical Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183978,
+  "lat": 11.0154329,
+  "lon": 76.9779193,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Opp To City Police Commissioner Off., Coimbatore, Hosur Road",
+    "addr:postcode": "641037",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ishaiah Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183983,
+  "lat": 10.9914700,
+  "lon": 76.9767870,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Ramanathapuram, Coimbatore, Sungam Bypass Road",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Manu Hospital- Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183988,
+  "lat": 11.0069868,
+  "lon": 77.0713680,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "152A, Near Bypass Junction, Coimbatore, Trichy Road,Chinthamani pudur",
+    "addr:postcode": "641103",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Saraswathi Hospital",
+    "name:ta": "சரஸ்வதி மருத்துவமனை",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183990,
+  "lat": 11.0256700,
+  "lon": 76.9021760,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Near United Bank Of India, Vadavalli-Thondamuthur Road, Vadavalli",
+    "addr:postcode": "641041",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Akshaya Maternity Center",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183994,
+  "lat": 11.0060689,
+  "lon": 76.9527967,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "R.S Puram, Coimbatore, Ramachandra Road",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Muniyappa Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183995,
+  "lat": 11.0044176,
+  "lon": 76.9503459,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Rs Puram, Coimbatore, Sambandam Road",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rajalakshmi Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257183997,
+  "lat": 11.0231222,
+  "lon": 76.9136781,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Pn Pudur, Coimbatore, New Thillai Nagar,Marurutamalai Main Road",
+    "addr:postcode": "641041",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "Sivashantha Mother & Child Health Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184001,
+  "lat": 10.9995252,
+  "lon": 76.9511992,
+  "tags": {
+    "addr:block": "Periyanaickenpalayam",
+    "addr:district": "Coimbatore",
+    "addr:full": "Palayam, Coimbatore, Near Mask, Mettupalayam Road",
+    "addr:postcode": "641020",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Guru Kirupa Hospital, Pn Palayam, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184003,
+  "lat": 10.9980405,
+  "lon": 77.0009615,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "#77, Om Sakthi Nagar, Sowripalayam Pirivu, Saravanampatty, Off Trichy Road",
+    "addr:postcode": "641035",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sathyan Eye Care Hospital & Coimbatore Glaucoma Foundation",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184008,
+  "lat": 10.9626641,
+  "lon": 76.9859400,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Kurichi, Pothanur, Coimbatore, St.Joseph Church Road",
+    "addr:postcode": "641023",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "name": "St. Mary's Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184012,
+  "lat": 10.9882483,
+  "lon": 76.9400963,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Selvapuram, Coimbatore, Perur Main Road",
+    "addr:postcode": "641026",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Revathi Hospital, Selvapuram",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184015,
+  "lat": 11.0070282,
+  "lon": 76.8654305,
+  "tags": {
+    "addr:block": "Thondamuthur",
+    "addr:district": "Coimbatore",
+    "addr:full": "Thondamuthur Rd, Jayanagar, Poochiyur",
+    "addr:postcode": "641109",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "name": "ANP Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184018,
+  "lat": 11.0248525,
+  "lon": 76.9943296,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "58/1, Bharathy Colony, Peelamedu, 3rd Cross West",
+    "addr:postcode": "641004",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "3rd Street West, Bharathi Colony",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Nehru Urology Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184021,
+  "lat": 11.0028200,
+  "lon": 76.9889960,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Redfields Road, Coimbatore, Appusamy Naidu Layout",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Om Sakthi Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184024,
+  "lat": 10.9967187,
+  "lon": 76.9954568,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Trichy Rd, Bharathi Nagar, Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sri Bala Medical Centre Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184026,
+  "lat": 10.9950877,
+  "lon": 76.9746602,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Santhya Hpl, sirumugai, Coimbatore",
+    "addr:postcode": "641302",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Mettupalayam",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Santhiya Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7257184029,
+  "lat": 10.9938600,
+  "lon": 76.9517440,
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "437-438, Town Hall, Coimbatore, Raja Street",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Annai Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 7343511629,
+  "lat": 11.0253792,
+  "lon": 76.9381035,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Devi Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7726414486,
+  "lat": 11.0190925,
+  "lon": 77.0228879,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name:en": "Nithyapriya Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009703,
+  "lat": 11.0387262,
+  "lon": 76.9228367,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Edayarpalayam, Coimbatore",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sumith Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009706,
+  "lat": 11.0383890,
+  "lon": 76.9262090,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Edayarpalayam",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ranjith Dental Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009707,
+  "lat": 11.0247015,
+  "lon": 76.9437321,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Jawahar Nagar, Saibaba Colony",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Muruganatham Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009710,
+  "lat": 11.0250420,
+  "lon": 76.9439008,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Jawahar Nagar, Saibaba Colony",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rukmani Ammal Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009711,
+  "lat": 11.0265680,
+  "lon": 76.9487980,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Onecare Ortho Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009712,
+  "lat": 11.0251484,
+  "lon": 76.9456019,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "name": "Dr. Nithya",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009713,
+  "lat": 11.0283152,
+  "lon": 76.9391123,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Kuppakonam Pudur, K K Nagar",
+    "addr:postcode": "641038",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Harshika's Homoeo Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009718,
+  "lat": 11.0271382,
+  "lon": 76.9428333,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "K.Pudur",
+    "addr:postcode": "641038",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Sri Saastha Physiotherapy Centre",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009721,
+  "lat": 11.0263447,
+  "lon": 76.9423976,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "K.Pudur",
+    "addr:postcode": "641038",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Raaj Dental Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009722,
+  "lat": 11.0270460,
+  "lon": 76.9481906,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Nesavaalar Colony, K K Nagar",
+    "addr:postcode": "641038",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Kannan Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009725,
+  "lat": 11.0255271,
+  "lon": 76.9515108,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Tatabad, Saibaba",
+    "addr:postcode": "641043",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Aswin Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009727,
+  "lat": 11.0269053,
+  "lon": 76.9479270,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "ENT Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009729,
+  "lat": 11.0371840,
+  "lon": 76.9231792,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Edayarpalayam, Coimbatore",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Gireesh Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009730,
+  "lat": 11.0263805,
+  "lon": 76.9415948,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Kuppakonam Pudur",
+    "addr:postcode": "641038",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Vetri's Homeo Care",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009732,
+  "lat": 11.0300612,
+  "lon": 76.9397208,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Kuppakonam Pudur, KK Nagar",
+    "addr:postcode": "641038",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Dr. K. Suresh Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009740,
+  "lat": 11.0387960,
+  "lon": 76.9260250,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Edayarpalayam",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "check_date": "2026-04-27",
+    "healthcare": "clinic",
+    "name": "Karthik Clinic",
+    "opening_hours": "Mo-Sa 10:00-14:00,18:00-22:00; Su 10:00-14:00",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009741,
+  "lat": 11.0256516,
+  "lon": 76.9371160,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "K.Pudur",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Poornima Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009743,
+  "lat": 11.0255323,
+  "lon": 76.9463747,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sakthi Fertility Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009747,
+  "lat": 11.0369397,
+  "lon": 76.9270680,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Edayarpalayam",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Dr. Rajasekar Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009748,
+  "lat": 11.0246928,
+  "lon": 76.9435571,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Masani Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009749,
+  "lat": 11.0266450,
+  "lon": 76.9459870,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641043",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kandaswamy Sidhq Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009752,
+  "lat": 11.0648735,
+  "lon": 76.9087141,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Kanuvai",
+    "addr:postcode": "641041",
+    "addr:state": "Tamil Nadu",
+    "amenity": "doctors",
+    "name": "Dr. Chithra Devi",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009753,
+  "lat": 11.0263590,
+  "lon": 76.9488030,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Pulimaram Bus Stop",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Shree Kanna Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009754,
+  "lat": 11.0457720,
+  "lon": 76.9229100,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641025",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "P S G Cules Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009755,
+  "lat": 11.0271033,
+  "lon": 76.9496102,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Coimbatore",
+    "addr:postcode": "641038",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Akshaya Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009759,
+  "lat": 11.0313641,
+  "lon": 76.9404132,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Mettupalayam",
+    "addr:postcode": "641301",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Dr. Sumathi Chandrasekaran Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844009763,
+  "lat": 11.0270905,
+  "lon": 76.9416551,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Kuppakonam Pudur, Saibaba Colony",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Paavai ENT Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058258,
+  "lat": 11.0132480,
+  "lon": 77.0192485,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "G.V. Residency, Mullai Nagar",
+    "addr:postcode": "641015",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Srinivas Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058260,
+  "lat": 11.0150335,
+  "lon": 77.0216931,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Andal Nagar, Lakshmipuram",
+    "addr:postcode": "641015",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Kavya Ortho Centre",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058266,
+  "lat": 11.0136130,
+  "lon": 77.0196630,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641015",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "SM Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058270,
+  "lat": 11.0160902,
+  "lon": 77.0202551,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Lakshmipuram, Uppilipalayam",
+    "addr:postcode": "641015",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Chycartist Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058283,
+  "lat": 11.0143629,
+  "lon": 77.0233910,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Lakshmipuram, Kasthuribai Gandhi Nagar",
+    "addr:postcode": "641015",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Thiru Physiotherapy Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058295,
+  "lat": 11.0006287,
+  "lon": 77.0306011,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Agraharam, Singanallur",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Nalam Child Care",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058296,
+  "lat": 11.0069780,
+  "lon": 77.0273766,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Varadharajapuram",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Lekha Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058299,
+  "lat": 11.0044086,
+  "lon": 77.0348661,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. Felix Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844058302,
+  "lat": 11.0101764,
+  "lon": 77.0245161,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Varadharajapuram",
+    "addr:postcode": "641015",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Vista Care Opticals & Eye Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131964,
+  "lat": 11.0076298,
+  "lon": 76.9576345,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Sukrawar Pettai, R S Puram",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vishnu Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131965,
+  "lat": 10.9986310,
+  "lon": 76.9512758,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Alshifa Healing and Naturopathy Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131966,
+  "lat": 11.0046785,
+  "lon": 76.9530101,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "RS Puram, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Dr. J K's Homeopathy Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131967,
+  "lat": 11.0125390,
+  "lon": 76.9861660,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Puliakulam",
+    "addr:postcode": "641037",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Arc Fertility Hospital",
+    "name:en": "Arc Fertility Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131968,
+  "lat": 11.0084050,
+  "lon": 76.9563960,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rex Ortho Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131969,
+  "lat": 11.0188961,
+  "lon": 76.9744842,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641044",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Shark Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131970,
+  "lat": 11.0163044,
+  "lon": 76.9799078,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Ramnagar, PN Palayam",
+    "addr:postcode": "641037",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Dr. B. Nirmala Womens Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131971,
+  "lat": 10.9969119,
+  "lon": 76.9995376,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Dr. Karthikeyan Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131973,
+  "lat": 11.0163842,
+  "lon": 76.9812846,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "PN Palayam",
+    "addr:postcode": "641037",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Kids Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131974,
+  "lat": 11.0112326,
+  "lon": 76.9548289,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "N R Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131975,
+  "lat": 11.0147200,
+  "lon": 76.9522990,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Parvathy Hospitals",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131976,
+  "lat": 11.0041271,
+  "lon": 76.9512555,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "name": "Dr. Sambadam",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131977,
+  "lat": 11.0081541,
+  "lon": 76.9578763,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram, Coimbatore",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Srigiri Ayurvedic Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131978,
+  "lat": 11.0157437,
+  "lon": 76.9842202,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "PN Palayam",
+    "addr:postcode": "641044",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "K.B.S. Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131979,
+  "lat": 11.0053400,
+  "lon": 76.9894010,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Dami Nagar, Puliakulam",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. G. Thiagarajan's Memorial Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131980,
+  "lat": 10.9958212,
+  "lon": 76.9963939,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ramvel Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131981,
+  "lat": 10.9905191,
+  "lon": 76.9592219,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Shajitha Anwaruddin Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131982,
+  "lat": 11.0238937,
+  "lon": 76.9582121,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Tatabad",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sathya Medical Centre & Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131983,
+  "lat": 11.0052314,
+  "lon": 76.9555303,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "P.N. Pudur, Coimbatore",
+    "addr:postcode": "641041",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. K Shitra Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131984,
+  "lat": 11.0154520,
+  "lon": 76.9817390,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "P N Palayam",
+    "addr:postcode": "641044",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Shakthi Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131986,
+  "lat": 11.0207084,
+  "lon": 76.9724130,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641044",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ramakrishna Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131987,
+  "lat": 11.0065379,
+  "lon": 76.9600631,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Sukrawar Pettai, R S Puram, Coimbatore",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Seethalakshmi Maternity Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131988,
+  "lat": 10.9987110,
+  "lon": 76.9512220,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R.S. Puram, Coimbatore",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sri Vishnu Priya Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131989,
+  "lat": 11.0143168,
+  "lon": 76.9449938,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Vincent Colony, R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Arun Urology Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131991,
+  "lat": 10.9901191,
+  "lon": 76.9421502,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Selvapuram",
+    "addr:postcode": "641026",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vennila Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131992,
+  "lat": 11.0091279,
+  "lon": 76.9546670,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "RS Puram, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "R.S Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131993,
+  "lat": 11.0154360,
+  "lon": 76.9842140,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "PN Palayam",
+    "addr:postcode": "641044",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Sayee Kids Care",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131994,
+  "lat": 10.9894030,
+  "lon": 76.9617140,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Ukkadam",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Welcare Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131995,
+  "lat": 11.0206590,
+  "lon": 76.9686110,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Becker Manual Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131996,
+  "lat": 10.9973118,
+  "lon": 76.9963622,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Palaniappa Nagar, Sowripalayam Pirivu",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Lakshmi ENT Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131997,
+  "lat": 10.9922284,
+  "lon": 76.9516612,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "G.K.P Clinics",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131998,
+  "lat": 10.9967758,
+  "lon": 77.0071075,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Kallimadai, Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Narmada Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844131999,
+  "lat": 11.0131526,
+  "lon": 76.9484050,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rao Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132000,
+  "lat": 11.0072830,
+  "lon": 76.9562670,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Chithra",
+    "addr:postcode": "641014",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kamala Prakash Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132001,
+  "lat": 11.0070110,
+  "lon": 76.9924390,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Pudur",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rafa Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132002,
+  "lat": 10.9920096,
+  "lon": 76.9520898,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Subu Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132003,
+  "lat": 10.9923475,
+  "lon": 76.9559691,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Prakasam, Town Hall",
+    "addr:postcode": "641001",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Rajagambiram Dental Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132004,
+  "lat": 11.0002483,
+  "lon": 76.9518169,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram, Coimbatore",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "check_date": "2025-06-16",
+    "healthcare": "hospital",
+    "name": "Iswarya Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132005,
+  "lat": 11.0075989,
+  "lon": 76.9911858,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Dhamu Nagar, Puliakulam",
+    "addr:postcode": "641028",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Anbu Child Care Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132008,
+  "lat": 11.0040562,
+  "lon": 76.9934204,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Ramasamy Nagar, Puliakulam",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Marutham Health Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132009,
+  "lat": 10.9920855,
+  "lon": 76.9574858,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Prakasam, Town Hall",
+    "addr:postcode": "641008",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sri Guru Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132010,
+  "lat": 11.0153485,
+  "lon": 76.9524368,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "PGS Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132011,
+  "lat": 11.0215052,
+  "lon": 76.9578141,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Tatabad",
+    "addr:postcode": "641012",
+    "addr:state": "Tamil Nadu",
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "name": "Dr. N. Bhaskar",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132012,
+  "lat": 11.0027982,
+  "lon": 76.9551255,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Kollupuram, R S Puram",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Shree Malar Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132014,
+  "lat": 10.9991540,
+  "lon": 76.9515490,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Thudiyalur",
+    "addr:postcode": "641034",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "K Jagathnathan Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7844132016,
+  "lat": 11.0084350,
+  "lon": 76.9580134,
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Hosimin Nagar",
+    "addr:postcode": "641043",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Mak Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 8000326824,
+  "lat": 11.0207277,
+  "lon": 77.0189795,
+  "tags": {
+    "addr:city": "Coimbatore",
+    "addr:housenumber": "7",
+    "addr:postcode": "641004",
+    "addr:street": "Rajalakshmi Nagar",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Sky speech & hearing care Clinic",
+    "opening_hours": "Mo-Sa 10:00-19:30"
+  }
+},
+{
+  "type": "node",
+  "id": 8321106418,
+  "lat": 11.0203194,
+  "lon": 76.9610724,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name:en": "Kovai Scan Center"
+  }
+},
+{
+  "type": "node",
+  "id": 11368079569,
+  "lat": 11.0208777,
+  "lon": 77.0218602,
+  "tags": {
+    "amenity": "clinic",
+    "name:en": "Roy Physiotherapy Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 12285255906,
+  "lat": 11.1340331,
+  "lon": 77.0350369,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Gokulam ortho hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 12285349823,
+  "lat": 11.0182403,
+  "lon": 76.9246000,
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2024-10-24",
+    "healthcare": "hospital",
+    "name": "Arunai Hospitals",
+    "name:ta": "அருணை மருத்துவமனை",
+    "phone": "+91 422 453 0142"
+  }
+},
+{
+  "type": "node",
+  "id": 13390367103,
+  "lat": 10.9757337,
+  "lon": 76.9959721,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Coimbatore Corporation Urban Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 13645086001,
+  "lat": 11.0572211,
+  "lon": 76.9709821,
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2026-03-13",
+    "healthcare": "hospital",
+    "name": "Gobi Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 14072235024,
+  "lat": 11.0154735,
+  "lon": 76.9543264,
+  "tags": {
+    "addr:district": "coimbatore",
+    "addr:place": "Vadakovai",
+    "addr:state": "TN",
+    "addr:street": "Cowley Brown Road",
+    "alt_name": "Vascular care centre",
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "healthcare:speciality": "vascular_surgery",
+    "name": "P.Govindaraj vascular surgeon",
+    "opening_hours": "Tu,Th,Sa 12:00-17:00; Mo,We,Fr \"appointment only\""
+  }
+},
+{
+  "type": "node",
+  "id": 14161840554,
+  "lat": 11.0079564,
+  "lon": 77.0754534,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "DJ Child Clinic (Dr. Thyagarajan)"
+  }
+},
+{
+  "type": "way",
+  "id": 48846712,
+  "center": {
+    "lat": 10.9965354,
+    "lon": 77.0039274
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "# 687, Trichy Road, Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Deepam Hospital, Ramanathapuram",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 133035201,
+  "center": {
+    "lat": 11.0469909,
+    "lon": 76.9477217
+  },
+  "tags": {
+    "addr:block": "Periyanaickenpalayam",
+    "addr:district": "Coimbatore",
+    "addr:full": "Mettupalayam Rd, Jayanthi Nagar, Koundampalayam, Coimbatore",
+    "addr:housename": "Kalpana Hospital",
+    "addr:postcode": "641030",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Mettupalayam Road",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Kalpana Medical Centre",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 133072618,
+  "center": {
+    "lat": 11.0261290,
+    "lon": 76.9524873
+  },
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Nesavaalar Colony, Saibaba Koil, Saibaba Colony",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Ganga Hospital",
+    "name:ta": "கங்கா மருத்துவமனை",
+    "source": "OpenGovernmentData",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 133736673,
+  "center": {
+    "lat": 11.0558646,
+    "lon": 76.9977839
+  },
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "16A, Sivanandapuram, Sathy Road",
+    "addr:postcode": "641035",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "address": "Sathy Road, Coimbatore - 641 035, Tamil Nadu",
+    "amenity": "hospital",
+    "email": "sankarai@md3.vsnl.net.in",
+    "emergency": "yes",
+    "name": "Sankara Eye Hospital",
+    "phone": "0422 2666450",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 155623691,
+  "center": {
+    "lat": 10.9843661,
+    "lon": 76.9302030
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Dr. Arjun Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 172098707,
+  "center": {
+    "lat": 11.0112862,
+    "lon": 76.9803545
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 193354097,
+  "center": {
+    "lat": 10.9996629,
+    "lon": 76.9953933
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "45A, Pankaja Mill Road, Coimbatore, Ramanathapuram",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Gem Hospital, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 356877719,
+  "center": {
+    "lat": 11.0426077,
+    "lon": 77.0406074
+  },
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Pb No 3209, Avinashi Road, Coimbatore",
+    "addr:postcode": "641014",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;paediatrics;ophthalmology;emergency;intensive;vaccination;dermatology;gynaecology;radiology;surgery;cardiology",
+    "name": "Kovai Medical Centre and Hospital",
+    "source": "OpenGovernmentData;local knowledge",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q52856605"
+  }
+},
+{
+  "type": "way",
+  "id": 377993519,
+  "center": {
+    "lat": 10.9964129,
+    "lon": 76.9702365
+  },
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "D.No.173, Krishnasamy Road, Near Brookfield Mall, R.S Puram, Brook Band Road",
+    "addr:postcode": "641002",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "alt_name": "CMC Coimbatore",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Coimbatore Medical College Hospital",
+    "name:ta": "கோவை மருத்துவ கல்லூரி மருத்துவமனை",
+    "source": "OpenGovernmentData",
+    "website": "https://www.cmccbe.ac.in/cmccbe/",
+    "wikidata": "Q5141507",
+    "wikipedia": "en:Coimbatore Medical College"
+  }
+},
+{
+  "type": "way",
+  "id": 380074539,
+  "center": {
+    "lat": 11.0344771,
+    "lon": 76.8765145
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "I.O.B Colony ,Maruthamalai",
+    "addr:postcode": "641045",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Coimbatore Diabetes Foundation",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 442528852,
+  "center": {
+    "lat": 11.0056673,
+    "lon": 76.9860901
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Airforce Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 464308337,
+  "center": {
+    "lat": 11.0069560,
+    "lon": 77.0118890
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "8, Krishna Nagar,Sowripalayam Main Road,Sowripalayam",
+    "addr:postcode": "641028",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Anurag Hospital",
+    "name:ta": "அனுராக் ஆஸ்பத்திரி",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 497317279,
+  "center": {
+    "lat": 10.9487627,
+    "lon": 76.9776849
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "#190, 191, Pollachi Road,Near Lic Colony,Industrial Estate Post",
+    "addr:postcode": "641021",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "check_date": "2026-05-10",
+    "name": "Rajam Medical Centre & Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 497317281,
+  "center": {
+    "lat": 10.9537980,
+    "lon": 76.9736085
+  },
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "# 314, Pollachi Main Road, Sundarapuram",
+    "addr:postcode": "641024",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "Sri Balaji Hospitals",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 497318359,
+  "center": {
+    "lat": 10.9542950,
+    "lon": 76.9731819
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "237-F/7, Sundarapuram, Coimbatore, Pollachi Road",
+    "addr:postcode": "641024",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "name": "Abinand Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 497318360,
+  "center": {
+    "lat": 10.9579090,
+    "lon": 76.9724703
+  },
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:city": "Sonipat",
+    "addr:district": "Sonipat",
+    "addr:full": "193/145, Kurichi, Sundarapuram, Coimbatore, Pollachi Main Road",
+    "addr:housenumber": "131001",
+    "addr:postcode": "641024",
+    "addr:state": "Tamil Nadu",
+    "addr:street": "Bahalgarh Road",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "cardiology;emergency_services;gastroenterology_&_liver_diseases",
+    "name": "FIMS Hospitals | Best Multispeciality Hospital In Sonipat",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 497318366,
+  "center": {
+    "lat": 10.9581915,
+    "lon": 76.9710523
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Lic Agent Colony, Sundarapuram",
+    "addr:postcode": "641024",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "name": "NRP Hospitals",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 497325630,
+  "center": {
+    "lat": 10.9868836,
+    "lon": 76.9335496
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Seetharam Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 497325631,
+  "center": {
+    "lat": 10.9873439,
+    "lon": 76.9357994
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Snekaram Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 498988417,
+  "center": {
+    "lat": 10.9978875,
+    "lon": 77.0170667
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "111, Nanjappa Nagar, Trichy Road,Singanallur Road,Petrol Bunk",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Coimbatore Child Trust Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 506409030,
+  "center": {
+    "lat": 11.0236015,
+    "lon": 76.9765120
+  },
+  "tags": {
+    "addr:housenumber": "395",
+    "addr:postcode": "641044",
+    "addr:street": "Sarojini Naidu Road",
+    "amenity": "hospital",
+    "check_date": "2026-08-06",
+    "check_date:opening_hours": "2026-08-06",
+    "contact:facebook": "sriramakrishnahospital",
+    "contact:instagram": "ramakrishnahospital",
+    "contact:twitter": "SRHcoimbatore",
+    "email": "info@sriramakrishnahospital.com",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Sri Ramakrishna Hospital",
+    "opening_hours": "24/7",
+    "phone": "+91422350000",
+    "website": "https://www.sriramakrishnahospital.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 580417858,
+  "center": {
+    "lat": 10.8733334,
+    "lon": 76.8784217
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Saranya Ayurveda Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 640746755,
+  "center": {
+    "lat": 10.9625619,
+    "lon": 76.9865689
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "St. Marys Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 651641257,
+  "center": {
+    "lat": 11.0108233,
+    "lon": 76.9661375
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Global Ortho & Trauma Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 668646361,
+  "center": {
+    "lat": 10.9494641,
+    "lon": 76.9291760
+  },
+  "tags": {
+    "addr:city": "Coimbatore",
+    "addr:postcode": "641042",
+    "addr:street": "Shanti Ashram Rd",
+    "amenity": "doctors",
+    "building": "yes",
+    "healthcare": "doctor",
+    "healthcare:speciality": "paediatrics",
+    "name": "ICPH International Center for Child and Public Health",
+    "operator": "Shanti Ashram",
+    "website": "http://www.icphhealth.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 676200805,
+  "center": {
+    "lat": 10.9559428,
+    "lon": 76.9241442
+  },
+  "tags": {
+    "addr:block": "Madukkarai",
+    "addr:district": "Coimbatore",
+    "addr:full": "Hospital, Sundakkamuthur, Hospital Veethy",
+    "addr:postcode": "641010",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sundakamuthur Government Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 678830304,
+  "center": {
+    "lat": 11.0087369,
+    "lon": 77.0227178
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "GMC & ESI Hospitals"
+  }
+},
+{
+  "type": "way",
+  "id": 686744601,
+  "center": {
+    "lat": 11.0272375,
+    "lon": 76.9501348
+  },
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:city": "coimbatore",
+    "addr:country": "IN",
+    "addr:district": "Coimbatore",
+    "addr:full": "Nsr Road, Coimbatore, Saibaba Koil",
+    "addr:place": "Saibaba Temple",
+    "addr:place:ta": "சாய்பாபா கோயில்",
+    "addr:postcode": "641011",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr.Sengaliappan Nursing Home, Coimbatore",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "way",
+  "id": 735262108,
+  "center": {
+    "lat": 11.0002506,
+    "lon": 76.9716078
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 738467952,
+  "center": {
+    "lat": 11.0231718,
+    "lon": 76.9776867
+  },
+  "tags": {
+    "addr:housenumber": "395",
+    "addr:street": "Sarojini Naidu Road",
+    "amenity": "hospital",
+    "check_date": "2026-08-13",
+    "healthcare": "hospital",
+    "name": "Sri Ramakrishna Hospital, Coimbatore"
+  }
+},
+{
+  "type": "way",
+  "id": 739720633,
+  "center": {
+    "lat": 10.9981109,
+    "lon": 76.9994702
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "N M Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 740030307,
+  "center": {
+    "lat": 11.0069200,
+    "lon": 77.0714157
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 740151967,
+  "center": {
+    "lat": 11.0159446,
+    "lon": 76.9614610
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kovai Diabetes Speciality Centre and Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 740646248,
+  "center": {
+    "lat": 11.0128979,
+    "lon": 76.9629540
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "M. V. Eye Care Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 740883509,
+  "center": {
+    "lat": 11.0078696,
+    "lon": 76.9662789
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr N S Palaniappan Nursing Home"
+  }
+},
+{
+  "type": "way",
+  "id": 740884933,
+  "center": {
+    "lat": 11.0160493,
+    "lon": 76.9594132
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Seesha Karunya Community Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 741020155,
+  "center": {
+    "lat": 11.0158471,
+    "lon": 76.9595292
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ganga Medical Centre and Hospitals Pvt. Ltd ,Ramnagar"
+  }
+},
+{
+  "type": "way",
+  "id": 750002368,
+  "center": {
+    "lat": 11.1072900,
+    "lon": 77.0238004
+  },
+  "tags": {
+    "addr:city": "Coimbatore",
+    "addr:housenumber": "499/500",
+    "addr:postcode": "641035",
+    "addr:street": "Sathyamangalam Road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "cardiology;dermatology;nephrology;general;gynaecology;paediatrics;orthopaedics",
+    "name": "Kumaran Medical Center-Multispeciality Hospital",
+    "phone": "0422 2226222",
+    "website": "https://www.kumaranmedical.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 777636349,
+  "center": {
+    "lat": 10.8800121,
+    "lon": 76.9247754
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "T.M.Palayam PHC"
+  }
+},
+{
+  "type": "way",
+  "id": 777638186,
+  "center": {
+    "lat": 11.0199095,
+    "lon": 76.9670503
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Jeevan Clinic and Hospital, Coimbatore"
+  }
+},
+{
+  "type": "way",
+  "id": 777638193,
+  "center": {
+    "lat": 11.0068131,
+    "lon": 76.9669045
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Coimbatore Corporation Maternity Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 840630245,
+  "center": {
+    "lat": 11.0228396,
+    "lon": 76.9655596
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Aiswarya Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 840630290,
+  "center": {
+    "lat": 11.0210653,
+    "lon": 76.9665454
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Nithya Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1149074106,
+  "center": {
+    "lat": 11.0017354,
+    "lon": 77.0301054
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vela Hospital, Singanallur, Coimbatore"
+  }
+},
+{
+  "type": "way",
+  "id": 1159633730,
+  "center": {
+    "lat": 11.0086635,
+    "lon": 77.0811080
+  },
+  "tags": {
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "healthcare:speciality": "pulmonology;general",
+    "name": "Dr. V. Ramakrishnan Clinic",
+    "name:ta": "டாக்டர். வி. இராமகிருஷ்ணன் மருத்துவமனை",
+    "opening_hours": "08:00-13:00, 15:00-19:30",
+    "operator": "Dr. V. Ramakrishnan",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 1171969157,
+  "center": {
+    "lat": 11.0570355,
+    "lon": 77.0672508
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1234645168,
+  "center": {
+    "lat": 11.0570076,
+    "lon": 77.0672390
+  },
+  "tags": {
+    "addr:block": "Coimbatore Corpn",
+    "addr:district": "Coimbatore",
+    "addr:full": "Avinashi Road - Coimbatore, Chinniyampalayam",
+    "addr:postcode": "641062",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore South",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "KGM Hospital, Chinniampalayam",
+    "source": "OpenGovernmentData;microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1240248192,
+  "center": {
+    "lat": 11.0153062,
+    "lon": 76.9595053
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Krishna Nursing Home",
+    "source": "microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1249640585,
+  "center": {
+    "lat": 11.0121496,
+    "lon": 76.9862308
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Puliakulam",
+    "addr:postcode": "641037",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "NSR Cancer Centre",
+    "source": "Local Knowledge;microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1252960262,
+  "center": {
+    "lat": 11.0069398,
+    "lon": 77.0272274
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Varadharajapuram",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "Lenin Ortho Clinic",
+    "source": "Local Knowledge;microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1252960440,
+  "center": {
+    "lat": 11.0006913,
+    "lon": 77.0287440
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Singanallur",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "AB Child Care Hospital",
+    "source": "Local Knowledge;microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1252960651,
+  "center": {
+    "lat": 11.0070941,
+    "lon": 77.0257616
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Varadharajapuram",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "Jhayakhar Clinic",
+    "source": "Local Knowledge;microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1252961263,
+  "center": {
+    "lat": 11.0051006,
+    "lon": 77.0271140
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "Varadharajapuram",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Martin Homoeopathy",
+    "source": "Local Knowledge;microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1252961373,
+  "center": {
+    "lat": 11.0061278,
+    "lon": 77.0254131
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:postcode": "641005",
+    "addr:state": "Tamil Nadu",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "Happy Kids Clinic",
+    "source": "Local Knowledge;microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1311199045,
+  "center": {
+    "lat": 10.9830163,
+    "lon": 76.9995841
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Punarnava Ayurveda"
+  }
+},
+{
+  "type": "way",
+  "id": 1481158131,
+  "center": {
+    "lat": 11.0327607,
+    "lon": 77.0354641
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Health Center & EDC"
+  }
+},
+{
+  "type": "way",
+  "id": 1487718752,
+  "center": {
+    "lat": 11.0215972,
+    "lon": 76.9770891
+  },
+  "tags": {
+    "addr:city": "Coimbatore",
+    "addr:district": "Coimbatore",
+    "addr:housenumber": "336",
+    "addr:postcode": "641044",
+    "addr:street": "Chinnasamy Naidu Road, Sidhapudhur, Balasundharam Layout",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "image": "https://share.google/images/R9X4fApzUE2ap3Oid",
+    "name": "Bragathi Hospital",
+    "website": "https://bragathihospital.com"
+  }
+},
+{
+  "type": "way",
+  "id": 1528969449,
+  "center": {
+    "lat": 11.0142508,
+    "lon": 77.0044787
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Heart care Hospital - Dr. Balaji"
+  }
+},
+{
+  "type": "way",
+  "id": 1528973359,
+  "center": {
+    "lat": 10.9988250,
+    "lon": 76.9996666
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sarvam Institute of ENT & Research"
+  }
+},
+{
+  "type": "way",
+  "id": 1557249442,
+  "center": {
+    "lat": 11.0189594,
+    "lon": 77.0754480
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Pukra Super Speciality Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1557251358,
+  "center": {
+    "lat": 11.0284718,
+    "lon": 77.1342008
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "KMCH Sulur Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1557252573,
+  "center": {
+    "lat": 11.0250389,
+    "lon": 77.1152889
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "LG Multi Speciality Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1557254473,
+  "center": {
+    "lat": 11.0113514,
+    "lon": 77.0838318
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "JP Multi Speciality Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1557254474,
+  "center": {
+    "lat": 11.0098744,
+    "lon": 77.0805883
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ortho Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1557254475,
+  "center": {
+    "lat": 11.0094525,
+    "lon": 77.0801547
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sri Krishna Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1557513720,
+  "center": {
+    "lat": 11.0803067,
+    "lon": 77.1201657
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ranjan Medical Centre Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1557522767,
+  "center": {
+    "lat": 11.0590438,
+    "lon": 77.0897590
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Royal Care Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1558066500,
+  "center": {
+    "lat": 11.0705212,
+    "lon": 77.0539629
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Chitra Medical Centre & Scans"
+  }
+},
+{
+  "type": "way",
+  "id": 1560820275,
+  "center": {
+    "lat": 11.0356799,
+    "lon": 77.0330326
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Aravind Eye Hospital Peelamedu"
+  }
+},
+{
+  "type": "relation",
+  "id": 2294115,
+  "center": {
+    "lat": 11.0825607,
+    "lon": 76.9973976
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 2295479,
+  "center": {
+    "lat": 11.0119015,
+    "lon": 76.9807480
+  },
+  "tags": {
+    "addr:district": "Coimbatore",
+    "addr:full": "P.B. No. 6327, Nethaji Road, Pappanaickenpalayam, Coimbatore – 641037",
+    "addr:postcode": "641037",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "alt_name": "GKNM Hospital",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "G. Kuppuswamy Naidu Memorial Hospital",
+    "phone": "04222245000",
+    "source": "OpenGovernmentData",
+    "start_date": "1952",
+    "type": "multipolygon",
+    "website": "https://www.gknmhospital.org/"
+  }
+},
+{
+  "type": "relation",
+  "id": 2295480,
+  "center": {
+    "lat": 11.0128666,
+    "lon": 76.9803086
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 11817364,
+  "center": {
+    "lat": 11.0356018,
+    "lon": 77.0328714
+  },
+  "tags": {
+    "addr:block": "Sarkar Samakulam",
+    "addr:district": "Coimbatore",
+    "addr:full": "Avinashi Road, Civil Aerodrome Post, Sitra, Coimbatore",
+    "addr:postcode": "641014",
+    "addr:state": "Tamil Nadu",
+    "addr:subdistrict": "Coimbatore North",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name:ta": "அரவிந்த் கண் மருத்துவமனை",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

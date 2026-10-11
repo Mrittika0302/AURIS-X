@@ -1,0 +1,397 @@
+﻿osm_type,osm_id,name,category,latitude,longitude,street,city,postcode,source,source_url,license
+node,247177822,SREC Health Center,hospital,11.1005451,76.9637445,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,321420767,Ellen Multispeciality Hospital,hospital,11.0213634,76.9708723,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,321420772,GP Hospital,hospital,11.0201233,76.9710726,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,321420833,Arunn Surgery,clinic,11.0110912,76.9671438,,,641018,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,330069980,Saravana Dental Care Hospital,hospital,11.0028292,76.9513725,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,330070075,Senthil Hospital,hospital,11.0089752,76.9578034,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,330070077,Dr. S. G. Rajarathinam Hospital,hospital,11.0095256,76.9619316,,,641009,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,337604253,"K. G. Hospital, Coimbatore",hospital,11.0004227,76.9715023,,,641018,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,343436821,Sengaliappan Nursing Home,hospital,11.0165542,76.955239,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,803091648,Bala Hospital,hospital,10.9969296,76.995705,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,832779637,"Kongunad Hospital, Coimbatore",hospital,11.018058,76.9604883,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,832779865,Sheela Clinic,hospital,11.01843,76.9604642,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1039493036,"Surya Hospital, Coimbatore",hospital,11.0390101,76.979517,,,641006,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1051328350,Fair Pharma,hospital,10.8927566,76.9246984,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1051328428,Vasan eye Care Hospital,hospital,10.9560967,76.9540004,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1423948022,PSG Hospitals,hospital,11.0188398,77.0073136,,,641004,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1425221969,K T V R Group Hospital,hospital,11.026167,76.9499384,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1464278789,Coimbatore Bone and Joint Foundation (P) Ltd.,hospital,11.0149404,76.9543844,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1466917439,"Womens Medical Centre, Coimbatore",hospital,11.0337824,76.9517175,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1467928839,Masonic Medical Centre For Children,hospital,10.9997961,76.9799441,,,641018,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1468079158,Somu medicals,hospital,11.0264568,76.9448591,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1468079184,Akila Medicals,hospital,11.0265516,76.9443924,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1468079553,Dr.U.S.Prakash's Clinic,hospital,11.0256249,76.9372845,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1469101395,KG Eye Hospital,hospital,11.0825506,76.997422,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1469149130,"Shree Siva Hospital, Ganapathy,",hospital,11.0441103,76.9856071,,,641006,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1470953869,Kalpaviruksha Ayurvedic Hospital,hospital,11.1293552,76.9351656,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1472192499,Sai Shraddha Hospitality,hospital,11.0254581,76.9726262,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1472211318,Vega ENT Hospitals,hospital,11.0144183,76.9437894,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1472211741,Sitalakshmi Hospital,hospital,11.0142906,76.9449521,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1472212062,Manonmani Hospital,hospital,11.0147975,76.9475002,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1472212557,Balaji Nursing Home,clinic,11.0148238,76.9487649,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1472215145,Preetam's Cardio Care,hospital,11.0152003,76.9498136,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1472215560,Kumaran Clinic,clinic,11.0152582,76.9519379,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1472230522,Rasi Hospital,hospital,11.0097731,76.9503293,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1473802712,City Hospital,hospital,11.0193391,76.9635166,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1473802741,Bethel Hospital,hospital,11.0190021,76.962084,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1473830522,Arasu Medicals,hospital,11.010593,76.950234,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1473830523,The Eye Foundaton,hospital,11.0134549,76.9496753,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1474413414,Moses Eye Hospital,hospital,10.9943793,76.9664663,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1474451371,Thayarammal poly clinic,hospital,10.9935069,76.9756194,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1474518445,Vasan Eye Care Hospital,hospital,11.0124743,76.9862396,,,641037,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1474518448,Coimbatore Kidney Centre,hospital,11.009415,76.9893791,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1474872830,Clinic - Dr.Rajashree,hospital,10.9978977,76.9893923,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1474923291,K. J. Hospital,hospital,10.9414068,76.9369908,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,1913565236,Ashwin Hospital,hospital,11.0241826,76.9731186,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,2465106156,Aravindan Hospital,hospital,11.1334592,77.0340488,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,3204361323,Arya Vaidya Pharmacy,hospital,10.995609,76.9917076,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,3781623526,"Vasan Eye Care Hospital, Kuniamuthoor",hospital,10.957713,76.9543156,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4078505530,Iswarya Fertility Test Tube Baby and Research Centre,clinic,11.0173902,76.9769123,,,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4185045390,Clarity Imaging Centre,clinic,11.0149765,76.9642774,Gokale Street,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4203547389,Microbiological Laboratory,clinic,11.0234149,76.9103076,Maruthamalai Road,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4259650392,Ortho One,hospital,11.0018351,77.0328061,Tiruchi Road,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4275430420,Government Urban Primary Health Center,hospital,11.0827084,76.9427442,Idikarai Road,Thudiyalur,641034,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4285718048,Karpagam Faculty Of Medical Sciences And Research,hospital,10.8840061,77.0066035,Karpagam College Road,Coimbatore,641032,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4315800697,Aravind Eye Hospital (City Centre),hospital,11.0153158,76.9539881,Cowley Brown Rd,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4338438493,Acupuncture Home,clinic,10.9923903,76.9934918,Nachi Angannan Thevar Street,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4379089793,"Lotus Eye Care Hospital, Coimbatore",hospital,11.0140006,76.9543624,Venkitasamy Road,,641601,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4402079982,ECHS,hospital,11.0051924,76.9879176,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4402079983,ECHS Polyclinic,hospital,11.0053321,76.9876533,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4407829092,,hospital,11.0248424,76.9564023,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4421640990,Baalaje Hospital,hospital,11.0247244,76.9055811,Thondamuthur Main road,,641041,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4426171975,"Sri Lakshmi Hospital, Coimbatore",hospital,11.0782349,76.9409348,,,641027,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4470920289,,clinic,11.008577,76.9563626,Shanmugam Road,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4472726820,Vijaya Hospitals,hospital,11.0148532,76.9489909,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4510663590,"Shri Hari Hospital, Coimbatore",hospital,11.0265248,76.9475939,NSR Road,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4571552072,Bethesda Hospital,hospital,11.0354039,76.9304803,Kovilmedu Road,Coimbatore,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4571573811,"Kiruba Hospital, Koilmedu,Coimbatore",hospital,11.0335068,76.929457,Kovilmedu Road,Coimbatore,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4603303688,G R Hospital,hospital,11.0093491,77.0024216,,,641028,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4703147672,TNAU Hospital,hospital,11.0080012,76.9362691,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4815778337,,clinic,11.0151259,76.9516784,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,4825348621,,hospital,11.087657,77.003366,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,5104357826,,clinic,10.9547118,76.9893223,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,5338403022,Telugupalayam Hospital,hospital,10.9842757,76.9297655,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,5643927426,Leo Ortho care Hospital,hospital,10.9969428,76.9993022,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,5774631561,Eye Trust Hospital,hospital,11.0242987,76.9582327,Sivananda Colony Main Road,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,5837579825,,clinic,11.021742,77.0190105,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6356067518,ESI Hospital,hospital,11.0092807,77.0240486,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6392075888,bhagirathi hospital,hospital,11.0794799,76.9409445,Thudialur to Kanuvai Road,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6436701885,,clinic,11.0206016,77.0182915,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6483712485,,clinic,11.0364256,77.015101,Vilankuruchi Road,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6886497248,KG Hospital Blood Bank,hospital,11.0004991,76.9716378,,,641018,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6886497264,PSG Hospital Blood Bank,hospital,11.0184957,77.0069428,,,641004,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914767991,Bethel Hospital Pvt. Ltd. - Coimbatore,hospital,11.0187223,76.9612328,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914767996,"Park Hospital, Coimbatore",hospital,11.0419411,77.0379131,,,641014,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914880547,"Mouthi Hospital Vadavalli, Coimbatore",hospital,11.0291808,76.9019419,,,641041,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914895660,"Vikaram ENT Hospital, Coimbatore",hospital,11.0120021,76.9494063,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914896216,R. A. Hospital,hospital,10.998556,76.9918562,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914896226,"R V Hospital, Coimbatore",hospital,11.0546916,77.0639178,,,641653,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914911765,Vasavi Hospital,hospital,10.9927872,76.9550228,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914927152,Vallalar Hospitals (Pvt) Ltd,hospital,11.0218408,76.9152537,,,641041,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914937646,Sri Ramana Hospital,hospital,10.9972817,76.9598213,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914937656,Sri Rani Poly Clinic,clinic,10.9949528,76.9755752,,,641018,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6914937682,"Sri Sakthi Hospital, Ganapathi, Coimbatore",hospital,11.0474918,76.9930659,,,641006,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6915000695,"Sri Meru Nursing Home, Coimbatore",clinic,11.0116059,76.9606769,,,641009,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6915018746,Sri Loga Clinic,clinic,11.072535,77.0017429,,,641302,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6915018753,Sri Maruthi Medical Center and Hospital,hospital,11.0891666,76.9384105,,,641017,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6915358911,Mallika Nursing Home,clinic,10.9627735,76.9574609,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6915464620,Veeku Hospital,hospital,11.0150799,76.9517022,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6917388569,Pranav Clinic,hospital,11.0631074,76.9985509,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6926049956,Gowtham Hospital,hospital,10.962127,76.9556397,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6926055606,"St Lukes Hospital, Coimbatore",hospital,11.0335424,77.0376261,,,641014,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6926369631,Sri Guru Hospital Pvt Ltd,hospital,11.0264336,76.9423118,,,641031,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6926437444,H. S. Hospital,hospital,11.0418035,76.9477855,,,641030,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6928304820,Vedanayagam Hospital (P) Limited,hospital,11.0144375,76.9504979,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6928594608,VGM Hospital,hospital,10.9986666,77.0143291,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6928752789,Dr. Muthu's Ortho Centre-Coimbatore,hospital,11.0026291,77.0406497,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6928817376,Sree Abishek Hospitals,hospital,11.0430968,76.9241157,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6928852611,Sree Andal Hospital,hospital,11.0560065,77.0164575,,,641035,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6929292296,The Arya Vaidya Chikitsalayam and Research Institue,hospital,10.9958401,76.9915813,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6929951553,Kovai Ent Hospital and Research Centre,hospital,11.041741,76.9835246,,,641006,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6929976817,Koushikha Hospital,hospital,10.9589868,76.9788824,,,641024,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6930487814,Chinniampalayam Venkateshwara Hospital,hospital,11.0545152,77.0652106,,,641062,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6932012014,Richmond Hospital,hospital,10.9946605,76.9793813,,,641018,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6932159823,"Ranga Hospital, Velandipalayam",hospital,11.0290235,76.932096,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6932162502,Rao Hospital,hospital,11.018513,76.9445555,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6932200240,"Joseph Hospital, Coimbatore",hospital,11.017244,76.9990446,,,641004,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6932203509,Ramvel Hospital,hospital,11.01362,77.0222618,,,641015,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6933038573,Immaculate Conception Convent Hospital,hospital,10.9943683,76.9642074,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6933048462,Sree Ramm Nursing Home,clinic,11.0898944,76.9423681,,,641022,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6933115102,Paari Nursing Home,clinic,11.0321465,76.9761197,,,641006,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6933992416,"S.M.Clinic, Podhanur, Coimbatore",clinic,10.9553739,76.9898473,,,641023,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934018833,"Vasan Eye Care Hospital, Coimbatore",hospital,11.0091245,76.9454058,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934039564,Sri Durga Poly Clinic,clinic,10.9980729,77.0001926,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934126430,Parthiban Nursing Home,clinic,11.0597504,76.9441089,,,641029,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934150425,Siloam Thomas Eye Hospital,clinic,11.0276019,76.9415045,,,641038,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934246107,"Krithika Hospital , Tiruppur",hospital,11.0424742,76.9476856,,,641687,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934271130,"Lotus Eye Care Hospital Ltd, Coimbatore",hospital,11.0406116,77.0401856,,,641014,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934340596,Nandha Hospital,hospital,11.0168636,76.9756664,,,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934340612,Nataraj Medical Care Center Private Limited,hospital,10.994101,76.9569379,,,641105,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934340734,Ortho One Orthopaedic Speciality Center(A Unit Of Spine Arthroscopic and Joint Replacement Center Pvt Ltd),hospital,10.9962048,77.0082217,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934340771,Padmavathy Hospital,hospital,11.0427427,76.9477212,,,641030,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934424352,Shree Saravana Nursing Home,clinic,11.002695,76.9513442,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934430447,Vishnu Ent Hospital - Coimbatore,hospital,11.0265389,76.9470734,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934690377,"Senthil Nursing Home, Coimbatore",clinic,10.9046622,76.9596114,,,641105,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934738477,The Balakrishnan Hospital,hospital,11.0190567,76.9625585,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6934957192,Swathi Poly Clinic,clinic,11.0089711,76.9989473,,,641028,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6935186143,Ponnammal Duraisamy Eye Clinic,clinic,11.010795,76.961735,,,641007,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6935188981,"Sangeetha Hospital, Coimbatore",hospital,10.963603,76.9563907,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6935272584,Karthick Polyclinic,clinic,10.9957861,76.9876988,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936305098,"Priya Hospital, Coimbatore",hospital,10.9446403,76.9352093,,,641014,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936310680,Sumith Hospital,hospital,11.0261493,77.0176752,,,641004,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936339717,"Rajah Hospital, Coimbatore",hospital,11.0270299,77.0187333,,,641004,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936359924,Lalitha Hospital,hospital,11.0174139,76.9617565,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936359961,"Hindusthan Hospital, Coimbatore",hospital,11.019682,76.9947731,,,641028,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936359967,"Kumaran Hospital, Coimbatore",hospital,11.0150812,76.95132,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936443894,"Sankara Eye Hospital, Coimbatore",hospital,11.0133673,76.9553728,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936582309,"C.S.R. Nursing Home, Coimbatore",clinic,11.0209812,76.9661131,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936609173,Madurai Eye Center,hospital,11.0137122,76.951316,,,641018,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936663154,Vega Ent Hospital,hospital,11.0142295,76.9437897,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936677079,Spt Hospitals,hospital,11.0143493,76.9614293,,,641009,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936695107,Dr K Padmavathy Hospital,hospital,11.0081878,76.9578948,,,641030,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936696197,"V. G. Hospital, Thudiyalur",hospital,11.0706896,76.9420054,Coimbatore-Mettupalayam Road,Thudiyalur,641034,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936708011,Sri Vishnu Priyaa Hospitals Pvt Ltd,hospital,11.036949,76.927958,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936708037,Aparna Hospital,hospital,10.9561995,76.9541618,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936708084,Snekaram Multi Specality Hospital,hospital,10.987562,76.9358088,,,641026,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6936794080,"Maruthi Hospital, Coimbatore",hospital,11.0031531,76.9513019,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6937401730,Roselet Medical ObgandSurgical Centre,hospital,11.0177943,76.9612482,,,641028,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6937449595,Karthic Nursing Home Pvt. Ltd.,clinic,10.9909191,76.9529521,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6937477838,K.M. Polyclinic,clinic,11.0061296,76.9475555,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,6937527640,Sruti Hospitals,hospital,11.0060677,76.9525994,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7210911318,Shree Sivaa Hospital,hospital,11.0450728,76.9856121,,,641006,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7210920536,Aroghya Nursing Home,clinic,11.0246121,76.911949,,,641043,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7210924997,Dr. BRJ Ortho Centre,hospital,11.0340354,76.9512209,,,641043,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155919,"Geethasree Hospital, Coimbatore",hospital,11.07196,77.002444,,,641035,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155922,"Balaji Hospital, Sulur",hospital,11.0277947,77.1298133,,,641402,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155935,"J.M.Hospital, Edayarpalayam",hospital,11.04984,76.918862,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155938,AR Medical Centre,hospital,11.04788,76.971976,,,641006,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155948,"Kamalaprakasam, Kalapatti",hospital,11.0778,77.035681,,,641048,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155969,SS Hospital Coimbatore,hospital,11.04761,77.000115,,,641006,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155978,"Rg Clinic , Coimbatore",clinic,11.0596676,76.9971511,,,641301,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155979,Vagai Government Hospital,hospital,11.1443519,77.1325092,,,641659,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257155982,"Hem Hospital- Thudiaylur, Coimbatore",hospital,11.0757442,76.9424139,,,641034,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156002,"Harini Shravan, Coimbatore",hospital,11.0703318,77.0005452,,,641035,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156011,Ramana Gounder Medical Trust Hospital,hospital,11.0753938,76.939234,,,641034,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156015,"Bishop Walsh Memorial Hospital, Coimbatore",hospital,11.07251,76.871537,,,641108,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156017,Malar Hpl Goundanpalayam,hospital,11.0437293,76.9475494,,,641030,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156018,Sai Hospital,hospital,11.0904781,76.9383967,,,641017,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156021,Pavithra Medical Centre,hospital,11.08088,76.869337,,,641108,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156023,"V.R.Hospital, Coimbatore",hospital,11.05642,77.001972,,,641035,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156045,Sree Subiksha Hospital,hospital,11.0287,76.897449,,,641041,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156048,Vimal Jothi Hospital,hospital,11.0892,77.008366,,,641035,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257156060,"Sampath Hospital ,S.S.Kulam",hospital,11.1339,77.034088,,,641107,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257166752,"Ambal Malumichampatty, Coimbatore",hospital,10.90265,76.997586,,,641050,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257166779,"Government Hospital, Madukkarai",hospital,10.9037986,76.9635381,,,641105,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257166809,Natraj Hospital,hospital,10.9042796,76.9586654,,,641105,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257166815,"I.J.Hospital, Kuniayamuthur, Coimbatore",hospital,10.95365,76.955989,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257166877,"Abirami Hospital, Coimbatore",hospital,10.95254,76.973201,,,641024,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257166879,"Ganapathy Pc Sundarapuram,",hospital,10.9521673,76.9758815,,,641024,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183906,Ponnaiah Hospital,hospital,11.0108047,76.9530054,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183907,"Rani Nursing Home, Selvapuram, Coimbatore",hospital,10.9871756,76.9392029,,,641026,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183911,"Shree Hospital, Puliakulam, Coimbatore",hospital,11.0064832,76.9914482,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183913,"Sri Meenakshi Hospital, Kuniamuthur",hospital,10.9567349,76.9544328,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183914,Shanmuga Hospital Rs Puram,hospital,11.0029,76.948869,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183915,"Government Hospital, Sulur",hospital,11.0247544,77.1228621,,,641402,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183916,Singanallur Government Hospital,hospital,11.0011,77.033733,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183917,Podanur Government Hospital,hospital,10.9664096,76.9870623,,,641023,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183920,"Medwin Hospital, Coimbatore",hospital,10.9972946,77.0051728,,,661005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183925,Sudha Hospital,hospital,11.0168278,76.9758131,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183926,"I.C.C Hospital For Women & Children, Coimbatore",hospital,10.9958251,76.9634777,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183942,"Government Hospital, Kuruchi",hospital,10.9638671,76.97122,,,641021,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183943,"Peoples Medical Centre, Coimbatore",hospital,11.0217448,77.0603524,,,641103,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183944,Rk Bai Corporation Health Centre,clinic,10.9998322,76.949604,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183946,"VGM Hospital, Coimbatore",hospital,10.99819,77.014447,,,641020,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183957,Gateway Clinic,clinic,11.0128764,76.9492706,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183959,"Roselet Medical Centre,Coimbatore",hospital,11.01005,77.008874,,,641028,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183960,Karthic Nursing Home,clinic,10.99135,76.95416,,,637101,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183964,"Sabari Hospital, Coimbatore",hospital,11.0254441,76.939724,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183965,Raksha Medical Centre,hospital,10.95665,76.987019,,,641023,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183966,"Dr.Manoharan Hospital, Thadagam, Coimbatore",hospital,11.0067511,76.9452484,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183971,"Sengottaiah Hospital, Coimbatore",hospital,11.0225148,76.9601579,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183972,"Sangeetha Hospital, Kuniyamuthur",hospital,10.9641042,76.9562562,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183974,"Seetharam Hospital, Coimbatore",hospital,10.99941,76.948495,,,641007,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183976,Preethi Medical Centre,hospital,11.0208486,76.9649585,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183978,"Ishaiah Hospital, Coimbatore",hospital,11.0154329,76.9779193,,,641037,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183983,Manu Hospital- Coimbatore,hospital,10.99147,76.976787,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183988,Saraswathi Hospital,hospital,11.0069868,77.071368,,,641103,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183990,Akshaya Maternity Center,hospital,11.02567,76.902176,,,641041,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183994,"Muniyappa Hospital, Coimbatore",hospital,11.0060689,76.9527967,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183995,"Rajalakshmi Hospital, Coimbatore",hospital,11.0044176,76.9503459,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257183997,Sivashantha Mother & Child Health Centre,hospital,11.0231222,76.9136781,,,641041,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184001,"Guru Kirupa Hospital, Pn Palayam, Coimbatore",hospital,10.9995252,76.9511992,,,641020,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184003,Sathyan Eye Care Hospital & Coimbatore Glaucoma Foundation,hospital,10.9980405,77.0009615,,,641035,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184008,St. Mary's Hospital,hospital,10.9626641,76.98594,,,641023,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184012,"Revathi Hospital, Selvapuram",hospital,10.9882483,76.9400963,,,641026,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184015,ANP Nursing Home,clinic,11.0070282,76.8654305,,,641109,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184018,Nehru Urology Centre,hospital,11.0248525,76.9943296,"3rd Street West, Bharathi Colony",,641004,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184021,"Om Sakthi Hospital, Coimbatore",hospital,11.00282,76.988996,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184024,Sri Bala Medical Centre Hospital,hospital,10.9967187,76.9954568,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184026,Santhiya Hospital,hospital,10.9950877,76.9746602,,,641302,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7257184029,Annai Nursing Home,clinic,10.99386,76.951744,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7343511629,Devi Hospital,hospital,11.0253792,76.9381035,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7726414486,,clinic,11.0190925,77.0228879,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009703,Sumith Hospital,hospital,11.0387262,76.9228367,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009706,Ranjith Dental Hospital,hospital,11.038389,76.926209,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009707,Muruganatham Clinic,clinic,11.0247015,76.9437321,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009710,Rukmani Ammal Hospital,hospital,11.025042,76.9439008,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009711,Onecare Ortho Hospital,hospital,11.026568,76.948798,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009712,Dr. Nithya,doctors,11.0251484,76.9456019,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009713,Harshika's Homoeo Clinic,clinic,11.0283152,76.9391123,,,641038,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009718,Sri Saastha Physiotherapy Centre,clinic,11.0271382,76.9428333,,,641038,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009721,Raaj Dental Hospital,hospital,11.0263447,76.9423976,,,641038,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009722,Kannan Clinic,clinic,11.027046,76.9481906,,,641038,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009725,Aswin Hospital,hospital,11.0255271,76.9515108,,,641043,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009727,ENT Clinic,clinic,11.0269053,76.947927,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009729,Gireesh Clinic,clinic,11.037184,76.9231792,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009730,Vetri's Homeo Care,clinic,11.0263805,76.9415948,,,641038,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009732,Dr. K. Suresh Clinic,clinic,11.0300612,76.9397208,,,641038,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009740,Karthik Clinic,clinic,11.038796,76.926025,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009741,Poornima Clinic,clinic,11.0256516,76.937116,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009743,Sakthi Fertility Hospital,hospital,11.0255323,76.9463747,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009747,Dr. Rajasekar Clinic,clinic,11.0369397,76.927068,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009748,Masani Hospital,hospital,11.0246928,76.9435571,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009749,Kandaswamy Sidhq Hospital,hospital,11.026645,76.945987,,,641043,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009752,Dr. Chithra Devi,doctors,11.0648735,76.9087141,,,641041,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009753,Shree Kanna Clinic,clinic,11.026359,76.948803,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009754,P S G Cules Hospital,hospital,11.045772,76.92291,,,641025,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009755,Akshaya Clinic,clinic,11.0271033,76.9496102,,,641038,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009759,Dr. Sumathi Chandrasekaran Clinic,clinic,11.0313641,76.9404132,,,641301,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844009763,Paavai ENT Hospital,hospital,11.0270905,76.9416551,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058258,Srinivas Hospital,hospital,11.013248,77.0192485,,,641015,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058260,Kavya Ortho Centre,clinic,11.0150335,77.0216931,,,641015,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058266,SM Clinic,clinic,11.013613,77.019663,,,641015,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058270,Chycartist Hospital,hospital,11.0160902,77.0202551,,,641015,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058283,Thiru Physiotherapy Clinic,clinic,11.0143629,77.023391,,,641015,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058295,Nalam Child Care,clinic,11.0006287,77.0306011,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058296,Lekha Clinic,clinic,11.006978,77.0273766,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058299,Dr. Felix Hospital,hospital,11.0044086,77.0348661,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844058302,Vista Care Opticals & Eye Clinic,clinic,11.0101764,77.0245161,,,641015,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131964,Vishnu Hospital,hospital,11.0076298,76.9576345,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131965,Alshifa Healing and Naturopathy Clinic,clinic,10.998631,76.9512758,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131966,Dr. J K's Homeopathy Clinic,clinic,11.0046785,76.9530101,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131967,Arc Fertility Hospital,hospital,11.012539,76.986166,,,641037,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131968,Rex Ortho Hospital,hospital,11.008405,76.956396,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131969,Shark Clinic,clinic,11.0188961,76.9744842,,,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131970,Dr. B. Nirmala Womens Clinic,clinic,11.0163044,76.9799078,,,641037,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131971,Dr. Karthikeyan Clinic,clinic,10.9969119,76.9995376,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131973,Kids Clinic,clinic,11.0163842,76.9812846,,,641037,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131974,N R Hospital,hospital,11.0112326,76.9548289,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131975,Parvathy Hospitals,hospital,11.01472,76.952299,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131976,Dr. Sambadam,doctors,11.0041271,76.9512555,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131977,Srigiri Ayurvedic Hospital,hospital,11.0081541,76.9578763,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131978,K.B.S. Hospital,hospital,11.0157437,76.9842202,,,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131979,Dr. G. Thiagarajan's Memorial Hospital,hospital,11.00534,76.989401,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131980,Ramvel Hospital,hospital,10.9958212,76.9963939,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131981,Shajitha Anwaruddin Clinic,clinic,10.9905191,76.9592219,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131982,Sathya Medical Centre & Hospital,hospital,11.0238937,76.9582121,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131983,Dr. K Shitra Hospital,hospital,11.0052314,76.9555303,,,641041,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131984,Shakthi Clinic,clinic,11.015452,76.981739,,,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131986,Ramakrishna Hospital,hospital,11.0207084,76.972413,,,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131987,Seethalakshmi Maternity Hospital,hospital,11.0065379,76.9600631,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131988,Sri Vishnu Priya Hospital,hospital,10.998711,76.951222,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131989,Arun Urology Hospital,hospital,11.0143168,76.9449938,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131991,Vennila Hospital,hospital,10.9901191,76.9421502,,,641026,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131992,R.S Hospital,hospital,11.0091279,76.954667,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131993,Sayee Kids Care,clinic,11.015436,76.984214,,,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131994,Welcare Hospital,hospital,10.989403,76.961714,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131995,Becker Manual Hospital,hospital,11.020659,76.968611,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131996,Lakshmi ENT Clinic,clinic,10.9973118,76.9963622,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131997,G.K.P Clinics,clinic,10.9922284,76.9516612,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131998,Narmada Hospital,hospital,10.9967758,77.0071075,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844131999,Rao Hospital,hospital,11.0131526,76.948405,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132000,Kamala Prakash Hospital,hospital,11.007283,76.956267,,,641014,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132001,Rafa Hospital,hospital,11.007011,76.992439,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132002,Subu Hospital,hospital,10.9920096,76.9520898,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132003,Rajagambiram Dental Hospital,hospital,10.9923475,76.9559691,,,641001,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132004,Iswarya Hospital,hospital,11.0002483,76.9518169,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132005,Anbu Child Care Clinic,clinic,11.0075989,76.9911858,,,641028,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132008,Marutham Health Clinic,clinic,11.0040562,76.9934204,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132009,Sri Guru Hospital,hospital,10.9920855,76.9574858,,,641008,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132010,PGS Hospital,hospital,11.0153485,76.9524368,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132011,Dr. N. Bhaskar,doctors,11.0215052,76.9578141,,,641012,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132012,Shree Malar Clinic,clinic,11.0027982,76.9551255,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132014,K Jagathnathan Hospital,hospital,10.999154,76.951549,,,641034,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,7844132016,Mak Hospital,hospital,11.008435,76.9580134,,,641043,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,8000326824,Sky speech & hearing care Clinic,clinic,11.0207277,77.0189795,Rajalakshmi Nagar,Coimbatore,641004,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,8321106418,,clinic,11.0203194,76.9610724,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,11368079569,,clinic,11.0208777,77.0218602,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,12285255906,Gokulam ortho hospital,hospital,11.1340331,77.0350369,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,12285349823,Arunai Hospitals,hospital,11.0182403,76.9246,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,13390367103,Coimbatore Corporation Urban Health Centre,hospital,10.9757337,76.9959721,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,13645086001,Gobi Medical Centre,hospital,11.0572211,76.9709821,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,14072235024,P.Govindaraj vascular surgeon,doctors,11.0154735,76.9543264,Cowley Brown Road,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+node,14161840554,DJ Child Clinic (Dr. Thyagarajan),hospital,11.0079564,77.0754534,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,48846712,"Deepam Hospital, Ramanathapuram",hospital,10.9965354,77.0039274,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,133035201,Kalpana Medical Centre,hospital,11.0469909,76.9477217,Mettupalayam Road,,641030,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,133072618,Ganga Hospital,hospital,11.026129,76.9524873,,,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,133736673,Sankara Eye Hospital,hospital,11.0558646,76.9977839,,,641035,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,155623691,Dr. Arjun Hospital,hospital,10.9843661,76.930203,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,172098707,,hospital,11.0112862,76.9803545,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,193354097,"Gem Hospital, Coimbatore",hospital,10.9996629,76.9953933,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,356877719,Kovai Medical Centre and Hospital,hospital,11.0426077,77.0406074,,,641014,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,377993519,Coimbatore Medical College Hospital,hospital,10.9964129,76.9702365,,,641002,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,380074539,Coimbatore Diabetes Foundation,hospital,11.0344771,76.8765145,,,641045,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,442528852,Airforce Hospital,hospital,11.0056673,76.9860901,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,464308337,Anurag Hospital,hospital,11.006956,77.011889,,,641028,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,497317279,Rajam Medical Centre & Hospital,hospital,10.9487627,76.9776849,,,641021,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,497317281,Sri Balaji Hospitals,hospital,10.953798,76.9736085,,,641024,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,497318359,Abinand Hospital,hospital,10.954295,76.9731819,,,641024,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,497318360,FIMS Hospitals | Best Multispeciality Hospital In Sonipat,hospital,10.957909,76.9724703,Bahalgarh Road,Sonipat,641024,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,497318366,NRP Hospitals,hospital,10.9581915,76.9710523,,,641024,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,497325630,Seetharam Hospital,hospital,10.9868836,76.9335496,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,497325631,Snekaram Hospital,hospital,10.9873439,76.9357994,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,498988417,Coimbatore Child Trust Hospital,hospital,10.9978875,77.0170667,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,506409030,Sri Ramakrishna Hospital,hospital,11.0236015,76.976512,Sarojini Naidu Road,,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,580417858,Saranya Ayurveda Hospital,hospital,10.8733334,76.8784217,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,640746755,St. Marys Hospital,hospital,10.9625619,76.9865689,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,651641257,Global Ortho & Trauma Hospital,hospital,11.0108233,76.9661375,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,668646361,ICPH International Center for Child and Public Health,doctors,10.9494641,76.929176,Shanti Ashram Rd,Coimbatore,641042,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,676200805,Sundakamuthur Government Hospital,hospital,10.9559428,76.9241442,,,641010,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,678830304,GMC & ESI Hospitals,hospital,11.0087369,77.0227178,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,686744601,"Dr.Sengaliappan Nursing Home, Coimbatore",hospital,11.0272375,76.9501348,,coimbatore,641011,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,735262108,,hospital,11.0002506,76.9716078,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,738467952,"Sri Ramakrishna Hospital, Coimbatore",hospital,11.0231718,76.9776867,Sarojini Naidu Road,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,739720633,N M Hospital,hospital,10.9981109,76.9994702,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,740030307,,hospital,11.00692,77.0714157,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,740151967,Kovai Diabetes Speciality Centre and Hospital,hospital,11.0159446,76.961461,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,740646248,M. V. Eye Care Centre,hospital,11.0128979,76.962954,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,740883509,Dr N S Palaniappan Nursing Home,hospital,11.0078696,76.9662789,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,740884933,Seesha Karunya Community Hospital,hospital,11.0160493,76.9594132,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,741020155,"Ganga Medical Centre and Hospitals Pvt. Ltd ,Ramnagar",hospital,11.0158471,76.9595292,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,750002368,Kumaran Medical Center-Multispeciality Hospital,hospital,11.10729,77.0238004,Sathyamangalam Road,Coimbatore,641035,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,777636349,T.M.Palayam PHC,hospital,10.8800121,76.9247754,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,777638186,"Jeevan Clinic and Hospital, Coimbatore",hospital,11.0199095,76.9670503,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,777638193,Coimbatore Corporation Maternity Centre,hospital,11.0068131,76.9669045,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,840630245,Aiswarya Clinic,hospital,11.0228396,76.9655596,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,840630290,Nithya Hospital,hospital,11.0210653,76.9665454,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1149074106,"Vela Hospital, Singanallur, Coimbatore",hospital,11.0017354,77.0301054,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1159633730,Dr. V. Ramakrishnan Clinic,clinic,11.0086635,77.081108,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1171969157,,hospital,11.0570355,77.0672508,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1234645168,"KGM Hospital, Chinniampalayam",hospital,11.0570076,77.067239,,,641062,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1240248192,Krishna Nursing Home,hospital,11.0153062,76.9595053,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1249640585,NSR Cancer Centre,clinic,11.0121496,76.9862308,,,641037,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1252960262,Lenin Ortho Clinic,clinic,11.0069398,77.0272274,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1252960440,AB Child Care Hospital,hospital,11.0006913,77.028744,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1252960651,Jhayakhar Clinic,clinic,11.0070941,77.0257616,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1252961263,Martin Homoeopathy,hospital,11.0051006,77.027114,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1252961373,Happy Kids Clinic,clinic,11.0061278,77.0254131,,,641005,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1311199045,Punarnava Ayurveda,hospital,10.9830163,76.9995841,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1481158131,Health Center & EDC,hospital,11.0327607,77.0354641,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1487718752,Bragathi Hospital,hospital,11.0215972,76.9770891,"Chinnasamy Naidu Road, Sidhapudhur, Balasundharam Layout",Coimbatore,641044,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1528969449,Heart care Hospital - Dr. Balaji,hospital,11.0142508,77.0044787,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1528973359,Sarvam Institute of ENT & Research,hospital,10.998825,76.9996666,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1557249442,Pukra Super Speciality Hospital,hospital,11.0189594,77.075448,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1557251358,KMCH Sulur Hospital,hospital,11.0284718,77.1342008,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1557252573,LG Multi Speciality Hospital,hospital,11.0250389,77.1152889,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1557254473,JP Multi Speciality Hospital,hospital,11.0113514,77.0838318,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1557254474,Ortho Hospital,hospital,11.0098744,77.0805883,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1557254475,Sri Krishna Hospital,hospital,11.0094525,77.0801547,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1557513720,Ranjan Medical Centre Hospital,hospital,11.0803067,77.1201657,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1557522767,Royal Care Hospital,hospital,11.0590438,77.089759,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1558066500,Chitra Medical Centre & Scans,hospital,11.0705212,77.0539629,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+way,1560820275,Aravind Eye Hospital Peelamedu,hospital,11.0356799,77.0330326,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+relation,2294115,,hospital,11.0825607,76.9973976,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+relation,2295479,G. Kuppuswamy Naidu Memorial Hospital,hospital,11.0119015,76.980748,,,641037,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+relation,2295480,,hospital,11.0128666,76.9803086,,,,OpenStreetMap,https://www.openstreetmap.org/,ODbL
+relation,11817364,,hospital,11.0356018,77.0328714,,,641014,OpenStreetMap,https://www.openstreetmap.org/,ODbL

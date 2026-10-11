@@ -1,0 +1,11 @@
+{
+  "source_file": "data\\raw\\healthcare_osm_20261011_112504.json",
+  "output_file": "data\\silver\\healthcare_clean_20261011_112857.csv",
+  "input_records": 396,
+  "output_records": 396,
+  "rejected_records": 0,
+  "duplicate_ids_skipped": 0,
+  "records_without_names": 18,
+  "generated_at": "2026-10-11T11:28:57.486864+05:30",
+  "note": "Normalization only; not proof of facility existence, operational status, completeness, or service capacity."
+}

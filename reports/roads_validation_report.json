@@ -1,0 +1,24 @@
+{
+  "dataset": "roads_osm_20261011_115925.graphml",
+  "node_count": 84306,
+  "directed_edge_count": 211237,
+  "nodes_missing_coordinates": 0,
+  "nodes_with_invalid_coordinates": 0,
+  "edges_missing_length": 0,
+  "edges_with_invalid_length_or_endpoints": 0,
+  "weakly_connected_components": 275,
+  "strongly_connected_components": 293,
+  "checks": {
+    "has_nodes": true,
+    "has_edges": true,
+    "all_nodes_have_coordinates": true,
+    "all_coordinates_in_valid_ranges": true,
+    "all_edges_have_positive_lengths": true
+  },
+  "limitations": [
+    "Structural checks do not prove real-world road completeness.",
+    "Connected components may reflect one-way streets, access rules, or data gaps.",
+    "Edge lengths are not validated travel times.",
+    "Study boundary is an approximate bounding box, not an official boundary."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "downloaded_at": "2026-10-11T11:25:06.025517+05:30",
+  "bounding_box": {
+    "south": 10.85,
+    "west": 76.85,
+    "north": 11.15,
+    "east": 77.15
+  },
+  "element_count": 396,
+  "counts_by_amenity": {
+    "hospital": 309,
+    "clinic": 81,
+    "doctors": 6
+  },
+  "raw_file": "healthcare_osm_20261011_112504.json",
+  "limitations": [
+    "Bounding box is approximate, not an official boundary.",
+    "Only amenity=hospital, clinic, and doctors were queried.",
+    "OpenStreetMap records may be incomplete or duplicated."
+  ],
+  "license": "Open Database License (ODbL)",
+  "attribution": "\u00a9 OpenStreetMap contributors"
+}
