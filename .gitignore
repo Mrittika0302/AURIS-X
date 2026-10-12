@@ -1,0 +1,29 @@
+﻿# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local secrets and environment settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated outputs (review before selectively committing)
+reports/
+
+data/population/*.tif
+
+# Local caches and generated reports
+cache/
+reports/
+.vscode/
