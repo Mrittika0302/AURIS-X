@@ -1,0 +1,38 @@
+{
+  "project": "AURIS-X",
+  "category": "transport",
+  "provider": "OpenStreetMap contributors via Overpass API",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "retrieved_at_utc": "2026-10-15T15:23:25.055822+00:00",
+  "query": null,
+  "bbox": {
+    "south": 10.85,
+    "west": 76.85,
+    "north": 11.15,
+    "east": 77.15,
+    "official_boundary": false
+  },
+  "raw_filename": "data\\raw\\transport_osm_20261015T152325Z.json",
+  "raw_bytes": 120873,
+  "element_count": 432,
+  "element_type_counts": {
+    "node": 302,
+    "way": 92,
+    "relation": 38
+  },
+  "license": "Open Database License (ODbL) 1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "attribution_url": "https://www.openstreetmap.org/copyright",
+  "limitations": [
+    "Approximate rectangular extent, not an official city boundary.",
+    "OSM completeness, operating status and public accessibility are unverified.",
+    "Ways and relations may require geometry-aware processing.",
+    "Tag-based queries can miss relevant features or include ambiguous ones.",
+    "A successful download is not proof of dataset completeness or service coverage."
+  ],
+  "source": "OpenStreetMap",
+  "copyright_url": "https://www.openstreetmap.org/copyright",
+  "retrieved_utc": null,
+  "retrieval_time_note": "Exact retrieval timestamp not recorded in metadata; filename contains 20261015T152325Z.",
+  "query_note": "Exact query was not recorded in this metadata file; do not treat it as verified until recovered from the script or logs."
+}

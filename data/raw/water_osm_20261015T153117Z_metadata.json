@@ -1,0 +1,18 @@
+{
+  "category": "water",
+  "source": "OpenStreetMap",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "retrieved_utc": "2026-10-15T15:31:17.683395+00:00",
+  "bbox_south_west_north_east": [
+    10.85,
+    76.85,
+    11.15,
+    77.15
+  ],
+  "query": "[out:json][timeout:90];(nwr[\"amenity\"=\"drinking_water\"](10.85,76.85,11.15,77.15);nwr[\"man_made\"~\"^(water_tower|reservoir_covered|water_works|water_well)$\"](10.85,76.85,11.15,77.15);nwr[\"water\"=\"reservoir\"](10.85,76.85,11.15,77.15);nwr[\"waterway\"=\"water_point\"](10.85,76.85,11.15,77.15););out center tags;",
+  "element_count": 48,
+  "license": "Open Database License (ODbL)",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "copyright_url": "https://www.openstreetmap.org/copyright",
+  "status": "downloaded; validation pending"
+}

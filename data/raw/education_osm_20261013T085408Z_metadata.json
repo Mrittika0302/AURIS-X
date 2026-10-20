@@ -1,0 +1,12 @@
+{
+  "category": "education",
+  "source": null,
+  "endpoint": null,
+  "retrieved_utc": null,
+  "element_count": null,
+  "license": null,
+  "attribution": null,
+  "copyright_url": null,
+  "status": "provenance incomplete; verification required",
+  "note": "Metadata sidecar was absent. The filename alone is not proof of the exact source, query, retrieval time, or license. Recover these details from existing logs or source records."
+}

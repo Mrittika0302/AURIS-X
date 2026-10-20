@@ -1,0 +1,416 @@
+﻿osm_type,osm_id,osm_key,name,name_en,facility_type,amenity,office,education_tag,operator,latitude,longitude,has_name,has_coordinates,source_raw_file
+node,244513191,node/244513191,"Sri Ramakrishna Engineering College, vatamalaipalayam, coimbatore",,college,college,,,,11.1016316,76.9653051,True,True,education_osm_20261013T085408Z.json
+node,247177826,node/247177826,SREC BSC block,,college,college,,,,11.1008789,76.9642735,True,True,education_osm_20261013T085408Z.json
+node,247177878,node/247177878,"SREC EEEE,ECE Lab",,college,college,,,,11.1005848,76.9661302,True,True,education_osm_20261013T085408Z.json
+node,247177880,node/247177880,Sri Ramakrishna Engineering college Main Block,,college,college,,,,11.1022191,76.9657051,True,True,education_osm_20261013T085408Z.json
+node,279428204,node/279428204,Krishna Engineering College,,college,college,,,,10.9369672,76.956139,True,True,education_osm_20261013T085408Z.json
+node,282874142,node/282874142,Sri Ramakrishna Arts and Science College for Womens,,college,college,,,,11.0223964,76.9780502,True,True,education_osm_20261013T085408Z.json
+node,285883979,node/285883979,sri krishna arts and science college,,college,college,,,,10.9378137,76.9590823,True,True,education_osm_20261013T085408Z.json
+node,295987842,node/295987842,Government Women's Polytechnic College,,college,college,,,,11.0159476,76.975865,True,True,education_osm_20261013T085408Z.json
+node,321420715,node/321420715,United Physically Handicapped School,,school,school,,,,11.1047421,77.0242479,True,True,education_osm_20261013T085408Z.json
+node,321420716,node/321420716,Vimal Jothi Convent School,,school,school,,,,11.090002,77.0090525,True,True,education_osm_20261013T085408Z.json
+node,330069938,node/330069938,Corporation Boys High School,,school,school,,,,11.0049837,76.9474178,True,True,education_osm_20261013T085408Z.json
+node,330069956,node/330069956,Corporaton School for Deaf,,school,school,,,,11.0056048,76.9494051,True,True,education_osm_20261013T085408Z.json
+node,330069972,node/330069972,Vidya Vriksha Play School,,school,school,,,,11.0106805,76.9486042,True,True,education_osm_20261013T085408Z.json
+node,330069974,node/330069974,Bishop Ubagarm's Primary School,,school,school,,,,11.0130484,76.942949,True,True,education_osm_20261013T085408Z.json
+node,330070078,node/330070078,Kattur Municipal Elementary School,,school,school,,,,11.0077787,76.9641166,True,True,education_osm_20261013T085408Z.json
+node,337578514,node/337578514,Stanes Higher Secondary School,,school,school,,,,11.0063593,76.9724885,True,True,education_osm_20261013T085408Z.json
+node,343436818,node/343436818,Kikani Higher Secondary School,,school,school,,,,11.0115779,76.9579425,True,True,education_osm_20261013T085408Z.json
+node,343438055,node/343438055,Corporation Elementary School,,school,school,,,,11.0136837,76.9616315,True,True,education_osm_20261013T085408Z.json
+node,346037148,node/346037148,RS Puram Corporation Girls High School,,school,school,,,,11.0102989,76.9469568,True,True,education_osm_20261013T085408Z.json
+node,729616609,node/729616609,CMS Matriculation Higher Secondary School,,school,school,,,,11.0408776,76.9816972,True,True,education_osm_20261013T085408Z.json
+node,803389784,node/803389784,Mani Higher Secondary School,,school,school,,,,11.0138918,76.9820619,True,True,education_osm_20261013T085408Z.json
+node,803667690,node/803667690,GTTI,,college,college,,,,11.0068188,76.9778523,True,True,education_osm_20261013T085408Z.json
+node,942767266,node/942767266,Rathinam College of Arts & Science,,college,college,,,,10.9346185,76.9786341,True,True,education_osm_20261013T085408Z.json
+node,1039593590,node/1039593590,Daffodils Play School,,kindergarten,kindergarten,,,,11.0407408,76.9821129,True,True,education_osm_20261013T085408Z.json
+node,1202171362,node/1202171362,Goethe Institute,,college,college,,,,11.0069288,76.9779997,True,True,education_osm_20261013T085408Z.json
+node,1464278758,node/1464278758,V V Vani Vidhyalaya,,school,school,,,,11.0257662,76.9444308,True,True,education_osm_20261013T085408Z.json
+node,1464278820,node/1464278820,Ramalinga Chettiar School (Govt Aided),,school,school,,,,11.0234569,76.9482725,True,True,education_osm_20261013T085408Z.json
+node,1464278890,node/1464278890,Angappa Hr. Sec. School (CBSE),,school,school,,,,11.0235622,76.9463252,True,True,education_osm_20261013T085408Z.json
+node,1464770604,node/1464770604,Amrit Special needs school,,school,school,,,,11.0298208,76.9503161,True,True,education_osm_20261013T085408Z.json
+node,1469107407,node/1469107407,Kumaraguru College of Technology,,college,college,,college,,11.075597,76.9889277,True,True,education_osm_20261013T085408Z.json
+node,1469109274,node/1469109274,KG College of Arts and Science,,college,college,,,,11.0835993,76.9974565,True,True,education_osm_20261013T085408Z.json
+node,1469149959,node/1469149959,SeaSkills Maritime Academy,,school,school,,,,11.0829794,76.998578,True,True,education_osm_20261013T085408Z.json
+node,1470545645,node/1470545645,Amrita Vidhyalayam (Matriculation),,school,school,,,,11.0500591,76.9528836,True,True,education_osm_20261013T085408Z.json
+node,1470545671,node/1470545671,Ramasamy Matriculation School,,school,school,,,,11.048063,76.9463258,True,True,education_osm_20261013T085408Z.json
+node,1470738327,node/1470738327,Kongunadu arts and science college,,college,college,,,,11.0599857,76.9483963,True,True,education_osm_20261013T085408Z.json
+node,1470738328,node/1470738328,Yuvabharathi CBSE School,,school,school,,,,11.0661062,76.9169992,True,True,education_osm_20261013T085408Z.json
+node,1470949015,node/1470949015,Swami Shivanandha High School,,school,school,,,,11.1481087,76.9434564,True,True,education_osm_20261013T085408Z.json
+node,1471862691,node/1471862691,Avinashilingam Vocational Training Institute,,school,school,,,,11.0225375,76.9515029,True,True,education_osm_20261013T085408Z.json
+node,1472189593,node/1472189593,Ramakrishna Institute of Pharamedical Sciences,,school,school,,,,11.0244052,76.9767729,True,True,education_osm_20261013T085408Z.json
+node,1472189838,node/1472189838,College of Pharamacy,,school,school,,,,11.0243971,76.9762204,True,True,education_osm_20261013T085408Z.json
+node,1472205012,node/1472205012,Suburban Higher Secondary School,,school,school,,,,11.0129282,76.9609421,True,True,education_osm_20261013T085408Z.json
+node,1472205751,node/1472205751,North Coimbatore Corporation Higher Secondary School,,school,school,,,,11.0154056,76.958268,True,True,education_osm_20261013T085408Z.json
+node,1474348707,node/1474348707,Saravanampatty Elementary School,,school,school,,,,11.0763477,77.0017133,True,True,education_osm_20261013T085408Z.json
+node,1474490995,node/1474490995,Presentation convent,,school,school,,,,10.9945514,76.9648609,True,True,education_osm_20261013T085408Z.json
+node,1474491024,node/1474491024,corporation Girls High school,,school,school,,,,10.9955422,76.9601082,True,True,education_osm_20261013T085408Z.json
+node,1474491029,node/1474491029,St.Michaels School,,school,school,,,,10.9945881,76.9658375,True,True,education_osm_20261013T085408Z.json
+node,1474518415,node/1474518415,Trinity Boys High school,,school,school,,,,10.9976249,76.9971414,True,True,education_osm_20261013T085408Z.json
+node,1474518438,node/1474518438,Corporation girls high school,,school,school,,,,11.0091964,76.9905727,True,True,education_osm_20261013T085408Z.json
+node,1474726858,node/1474726858,St.Fathima's School,,school,school,,,,10.9944145,76.9639944,True,True,education_osm_20261013T085408Z.json
+node,1474803274,node/1474803274,VASAVI VIDYALAYA,,school,school,,,,10.9925558,76.9578433,True,True,education_osm_20261013T085408Z.json
+node,1474872833,node/1474872833,Bishop Ambrose College,,school,school,,,,10.9955885,76.9844758,True,True,education_osm_20261013T085408Z.json
+node,1474928621,node/1474928621,Sri Krishna College of Engineering and Technology,,college,college,,,,10.9371249,76.9564045,True,True,education_osm_20261013T085408Z.json
+node,1771099491,node/1771099491,Kaumaram Sushila International Residential School,,school,school,,,,11.066428,76.9884288,True,True,education_osm_20261013T085408Z.json
+node,2017661235,node/2017661235,Krishnaswamy Nagar - Ganga Nagar Matriculation School,,school,school,,,,11.0016933,76.9986536,True,True,education_osm_20261013T085408Z.json
+node,2465109132,node/2465109132,Vivekananda Institute Of Management Studies,,college,college,,,,11.1343205,77.044678,True,True,education_osm_20261013T085408Z.json
+node,2537780271,node/2537780271,Kaumaram Prashanthi Academy,,school,school,,,,11.0663459,76.9902571,True,True,education_osm_20261013T085408Z.json
+node,3891556867,node/3891556867,,,school,school,,,,11.0042615,77.0455742,False,True,education_osm_20261013T085408Z.json
+node,4288509871,node/4288509871,TNAU Play Ground,,university,university,,,,11.0103722,76.9343155,True,True,education_osm_20261013T085408Z.json
+node,4445057790,node/4445057790,ece department,,school,school,,,,11.0172007,76.9351837,True,True,education_osm_20261013T085408Z.json
+node,4594365762,node/4594365762,Annai Velankanni Matriculation Higher Secondary School,,school,school,,,,11.0093239,77.009605,True,True,education_osm_20261013T085408Z.json
+node,4739790083,node/4739790083,Bharathiyar University Complex,,university,university,,,,11.038113,76.8790518,True,True,education_osm_20261013T085408Z.json
+node,4888969835,node/4888969835,Rathinam Technopark,,college,college,,,,10.9338941,76.9800662,True,True,education_osm_20261013T085408Z.json
+node,5491827264,node/5491827264,EEE block,,college,college,,,,10.936684,76.9562248,True,True,education_osm_20261013T085408Z.json
+node,5491827265,node/5491827265,CSE/IT block,,college,college,,,,10.9366892,76.9566271,True,True,education_osm_20261013T085408Z.json
+node,5491827281,node/5491827281,ADMIN block,,college,college,,,,10.9377321,76.9562731,True,True,education_osm_20261013T085408Z.json
+node,5491830721,node/5491830721,civil block,,college,college,,,,10.9363074,76.9557983,True,True,education_osm_20261013T085408Z.json
+node,6130759969,node/6130759969,Anna University Regional Campus Coimbatore,,university,university,,,,11.0420716,76.8860315,True,True,education_osm_20261013T085408Z.json
+node,6460431436,node/6460431436,Angappa Matric School,,school,school,,,,11.0393294,76.9335681,True,True,education_osm_20261013T085408Z.json
+node,6549807511,node/6549807511,KV Matriculation Higher Secondary School,,school,school,,,,11.1051411,77.026711,True,True,education_osm_20261013T085408Z.json
+node,6549807512,node/6549807512,KV Institute of Management and Information Studies,,college,college,,,,11.1050789,77.0276575,True,True,education_osm_20261013T085408Z.json
+node,6675920337,node/6675920337,coimbatore corporation thudiyalur middle school (east),,school,school,,,,11.082246,76.946288,True,True,education_osm_20261013T085408Z.json
+node,7621881239,node/7621881239,Adhira International School,,school,school,,,,11.0665259,76.9247249,True,True,education_osm_20261013T085408Z.json
+node,7691253756,node/7691253756,SAN International Business School,,educational_institution,,educational_institution,,,10.85937,76.850225,True,True,education_osm_20261013T085408Z.json
+node,8156827818,node/8156827818,,Government Pre-School,kindergarten,kindergarten,,,,11.0209682,76.9047538,True,True,education_osm_20261013T085408Z.json
+node,8156850919,node/8156850919,,Government Primary School,school,school,,,,11.0243342,76.9008543,True,True,education_osm_20261013T085408Z.json
+node,10709278218,node/10709278218,Reeds World School,,school,school,,,,11.0721245,77.0554609,True,True,education_osm_20261013T085408Z.json
+node,10761094382,node/10761094382,Government school,,school,school,,,,11.0554435,77.0653927,True,True,education_osm_20261013T085408Z.json
+node,10895934519,node/10895934519,GOVERNMENT MEDICAL COLLEGE,,college,college,,,,11.0094673,77.0209682,True,True,education_osm_20261013T085408Z.json
+node,10959341597,node/10959341597,GRD College of Education,,college,college,,,,11.0583801,77.1144239,True,True,education_osm_20261013T085408Z.json
+node,11065114250,node/11065114250,Eezytutorials,,educational_institution,,educational_institution,,,10.8914676,76.9581878,True,True,education_osm_20261013T085408Z.json
+node,11367662872,node/11367662872,,VOC Hostel,college,college,,,,11.0333448,77.0357133,True,True,education_osm_20261013T085408Z.json
+node,11367692369,node/11367692369,,PSG College of Arts and Sciences,college,college,,,,11.0347134,77.0338039,True,True,education_osm_20261013T085408Z.json
+node,11455988074,node/11455988074,PG & Research Department of Public Administration,,college,college,,,,10.9984965,76.9737086,True,True,education_osm_20261013T085408Z.json
+node,11458804878,node/11458804878,"Government Arts College (Autonomous), Coimbatore-18",,college,college,,,"Department of Higher Education, Tamil Nadu",10.998499,76.9721668,True,True,education_osm_20261013T085408Z.json
+node,12092006371,node/12092006371,Sri Ramakrishna Matric Higher Secondary School,,school,school,,,,11.023175,76.9847233,True,True,education_osm_20261013T085408Z.json
+node,12124983635,node/12124983635,St. Mary's Primary School,,school,school,,,,11.0218649,76.9672728,True,True,education_osm_20261013T085408Z.json
+node,12124983636,node/12124983636,St. Mar's High School,,school,school,,,,11.0221987,76.9674321,True,True,education_osm_20261013T085408Z.json
+node,12124983637,node/12124983637,Brindisi Matric. Ir. Sec. School,,school,school,,,,11.0226114,76.9672831,True,True,education_osm_20261013T085408Z.json
+node,12285239997,node/12285239997,Star kids pre school,,school,school,,,,11.1346624,77.0390481,True,True,education_osm_20261013T085408Z.json
+node,12285349814,node/12285349814,,,school,school,,,,11.0131687,76.9428933,False,True,education_osm_20261013T085408Z.json
+node,12285349821,node/12285349821,,,school,school,,,,11.0169619,76.9242801,False,True,education_osm_20261013T085408Z.json
+node,12285349832,node/12285349832,Vannamalar Institute Of Forest Genetics & Tree Breeding,,college,college,,,,11.010034,76.9444043,True,True,education_osm_20261013T085408Z.json
+node,12291213802,node/12291213802,SRI PRAGANYA ACADEMY,,kindergarten,kindergarten,,,,11.0834513,76.9933465,True,True,education_osm_20261013T085408Z.json
+node,12345771541,node/12345771541,Nschool Academy,,educational_institution,,educational_institution,,,11.0248784,77.0120636,True,True,education_osm_20261013T085408Z.json
+node,12564706232,node/12564706232,,,school,school,,,,10.8532811,76.8575091,False,True,education_osm_20261013T085408Z.json
+node,12564723112,node/12564723112,,,school,school,,,,10.9966398,77.0629816,False,True,education_osm_20261013T085408Z.json
+node,12705215001,node/12705215001,RVS College of Engineering and Technology,,college,college,,,,11.0182458,77.1024979,True,True,education_osm_20261013T085408Z.json
+node,13001540233,node/13001540233,C-STERC,,educational_institution,,educational_institution,,,11.0039357,76.9493476,True,True,education_osm_20261013T085408Z.json
+node,13249334926,node/13249334926,Hindusthan Institute Of Technology,,college,college,,,,10.8945219,76.9970078,True,True,education_osm_20261013T085408Z.json
+node,13249334927,node/13249334927,Hindusthan School Of Architecture,,college,college,,,,10.8944692,76.9946314,True,True,education_osm_20261013T085408Z.json
+node,13249334928,node/13249334928,Hindusthan Polytechnic College,,college,college,,,,10.8915403,76.9946528,True,True,education_osm_20261013T085408Z.json
+node,13249353722,node/13249353722,Rathinam Technical Campus,,college,college,,,,10.9329868,76.9769453,True,True,education_osm_20261013T085408Z.json
+node,13249353723,node/13249353723,HCL Tech,,college,college,,,,10.9327241,76.9765913,True,True,education_osm_20261013T085408Z.json
+node,13249353724,node/13249353724,Rathinam College Of Pharmacy,,college,college,,,,10.9323474,76.9766481,True,True,education_osm_20261013T085408Z.json
+node,13250151164,node/13250151164,National Model Senior Secondary School,,school,school,,,,11.0174144,77.0131618,True,True,education_osm_20261013T085408Z.json
+node,13250169253,node/13250169253,GRG School of Management Studies,,college,college,,,,11.0281802,77.0064979,True,True,education_osm_20261013T085408Z.json
+node,13250204803,node/13250204803,C S Academy Trichy Road Campus,,school,school,,,,10.9990425,77.0069236,True,True,education_osm_20261013T085408Z.json
+node,13284389435,node/13284389435,Prodigy International Montessori School,,school,school,,school,,11.0201004,77.0169185,True,True,education_osm_20261013T085408Z.json
+node,13286557938,node/13286557938,Nehru Arts & Science College,,college,college,,college,,10.870628,76.9286552,True,True,education_osm_20261013T085408Z.json
+node,13286557939,node/13286557939,Nehru College of Management,,college,college,,college,,10.8711501,76.9273045,True,True,education_osm_20261013T085408Z.json
+node,13286557940,node/13286557940,Nehru Engg Block,,college,college,,college,,10.8699474,76.9262128,True,True,education_osm_20261013T085408Z.json
+node,13286557941,node/13286557941,Machenn Innovations,,college,college,,college,,10.8686724,76.9262175,True,True,education_osm_20261013T085408Z.json
+node,13286557946,node/13286557946,Nehru Institute of Health Science,,college,college,,college,,10.8682405,76.9254374,True,True,education_osm_20261013T085408Z.json
+node,13286557970,node/13286557970,Department of Criminology & Forensic Science,,college,college,,college,,10.8700456,76.9281753,True,True,education_osm_20261013T085408Z.json
+node,13286612677,node/13286612677,AJK College of Nursing,,college,college,,college,,10.8551336,76.8718638,True,True,education_osm_20261013T085408Z.json
+node,13434163284,node/13434163284,Kalaivani police Academy,,college,college,,college,,10.8933073,76.9550901,True,True,education_osm_20261013T085408Z.json
+node,13465562756,node/13465562756,Sri Krishna Polytechnic,,college,college,,college,,10.927644,76.9280066,True,True,education_osm_20261013T085408Z.json
+node,13520999864,node/13520999864,RVS College of Arts & Science,,college,college,,college,,11.0278164,77.1322381,True,True,education_osm_20261013T085408Z.json
+node,13520999865,node/13520999865,RVS Matriculation Higher Secondary,,college,college,,college,,11.026221,77.1316694,True,True,education_osm_20261013T085408Z.json
+node,13520999866,node/13520999866,RVS CAS MBA College,,college,college,,college,,11.025784,77.131648,True,True,education_osm_20261013T085408Z.json
+node,13520999867,node/13520999867,RVS Matriculation Higher Secondary,,college,college,,college,,11.0250732,77.1319323,True,True,education_osm_20261013T085408Z.json
+node,13520999872,node/13520999872,RVS College of Pharmacy,,college,college,,college,,11.0236751,77.1335699,True,True,education_osm_20261013T085408Z.json
+node,13520999873,node/13520999873,RVS College of Nursing,,college,college,,college,,11.0234741,77.1345408,True,True,education_osm_20261013T085408Z.json
+node,13626172672,node/13626172672,B Driving School,,education_tagged_other,driving_school,,driving_school,,11.0152713,77.0079223,True,True,education_osm_20261013T085408Z.json
+node,13644789151,node/13644789151,College Ground,,college,college,,college,,11.1015181,77.0280428,True,True,education_osm_20261013T085408Z.json
+node,13645076002,node/13645076002,Dobbs public school,,school,school,,school,,11.0948308,77.0099876,True,True,education_osm_20261013T085408Z.json
+node,13645076101,node/13645076101,Government School,,school,school,,school,,11.0949567,77.0117489,True,True,education_osm_20261013T085408Z.json
+node,13657704582,node/13657704582,Agricultural University,,university,university,,university,,11.0151164,76.939613,True,True,education_osm_20261013T085408Z.json
+node,13657712991,node/13657712991,CENTRE OF EXCELLENCE IN BIOTECHNOLOGY - TNAU,,university,university,,university,,11.0159934,76.9386809,True,True,education_osm_20261013T085408Z.json
+node,13660608623,node/13660608623,Marudhamalai Subramaniya swami Devasthanam high school,,school,school,,school,,11.0250149,76.9078626,True,True,education_osm_20261013T085408Z.json
+node,14048289235,node/14048289235,ECE department,,college,college,,college,,11.0660696,77.0929819,True,True,education_osm_20261013T085408Z.json
+node,14048289237,node/14048289237,EEE Department,,college,college,,college,,11.0654463,77.0931192,True,True,education_osm_20261013T085408Z.json
+node,14143602415,node/14143602415,Agasthya Public International School,,school,school,,school,,11.097939,77.0120468,True,True,education_osm_20261013T085408Z.json
+node,14156628956,node/14156628956,S F Office,,educational_institution,,educational_institution,,,11.0330891,77.0334984,True,True,education_osm_20261013T085408Z.json
+node,14172797466,node/14172797466,Kathir college of Arts & Science,,college,college,,college,,11.0696891,77.0791642,True,True,education_osm_20261013T085408Z.json
+node,14172797467,node/14172797467,Kathir college of Engineering,,college,college,,college,,11.0678255,77.0829086,True,True,education_osm_20261013T085408Z.json
+node,14172810441,node/14172810441,Chaithanya Techno School,,college,college,,college,,11.0670881,77.0819297,True,True,education_osm_20261013T085408Z.json
+node,14172810442,node/14172810442,Gems B School,,school,school,,school,,11.0694888,77.0822354,True,True,education_osm_20261013T085408Z.json
+node,14201408453,node/14201408453,United College of Medical Sciemce,,college,college,,college,,11.0298982,77.0203984,True,True,education_osm_20261013T085408Z.json
+way,66102291,way/66102291,Government Women's Polytechnic College,,college,college,,,,11.0155228,76.9751633,True,True,education_osm_20261013T085408Z.json
+way,66102343,way/66102343,Tamilnadu Forest Academy,,college,college,,,,11.0167662,76.946606,True,True,education_osm_20261013T085408Z.json
+way,66117845,way/66117845,,,school,school,,,,11.0049509,76.9480187,False,True,education_osm_20261013T085408Z.json
+way,66293772,way/66293772,,,school,school,,,,11.0059604,76.9734367,False,True,education_osm_20261013T085408Z.json
+way,66293773,way/66293773,Rangammal High School,,kindergarten,kindergarten,,,,11.0039341,76.9733727,True,True,education_osm_20261013T085408Z.json
+way,128964693,way/128964693,Amrita Vishwa Vidyapeetham,Amrita Vishwa Vidyapeetham,university,university,,university,Mata Amritanandamayi math,10.9036046,76.899696,True,True,education_osm_20261013T085408Z.json
+way,128976265,way/128976265,Bharathiar University,,university,university,,,,11.0372267,76.8770051,True,True,education_osm_20261013T085408Z.json
+way,128979859,way/128979859,Coimbatore Institute of Technology,,educational_institution,,educational_institution,,,11.0275243,77.0272407,True,True,education_osm_20261013T085408Z.json
+way,128979860,way/128979860,Government Polytechnic,,college,college,,,,11.0300874,77.0308517,True,True,education_osm_20261013T085408Z.json
+way,128979862,way/128979862,PSG College of Arts and Science,,college,college,,,,11.0328471,77.034909,True,True,education_osm_20261013T085408Z.json
+way,128980433,way/128980433,PSG College of Technology,,college,college,,,,11.024807,77.0029194,True,True,education_osm_20261013T085408Z.json
+way,130035630,way/130035630,VLB College of Arts and Science,,college,college,,,,10.9389355,76.9452189,True,True,education_osm_20261013T085408Z.json
+way,130035633,way/130035633,VLB School,,school,school,,,,10.9403866,76.9475542,True,True,education_osm_20261013T085408Z.json
+way,132995598,way/132995598,Bharathi Matri Hr. Sec. School,,school,school,,,,11.0232408,76.9368347,True,True,education_osm_20261013T085408Z.json
+way,133072620,way/133072620,Govt. College of Technology,,college,college,,,,11.0196162,76.9365414,True,True,education_osm_20261013T085408Z.json
+way,133072622,way/133072622,Avinasilingam Deemed University for Home Sciences,,university,university,,,,11.0191444,76.9515442,True,True,education_osm_20261013T085408Z.json
+way,133072629,way/133072629,Avila Convent Matriculation Higher Secondary School,,school,school,,,,11.025798,76.9335765,True,True,education_osm_20261013T085408Z.json
+way,133072630,way/133072630,Institute of Forest Genetics & Tree Breeding (IFGTB),,college,college,,,,11.0176359,76.9514724,True,True,education_osm_20261013T085408Z.json
+way,133360776,way/133360776,Marudhamalai Subramaniya Swamy Devasthana Higher Secondary School,,school,school,,,,11.0247759,76.9076266,True,True,education_osm_20261013T085408Z.json
+way,133360781,way/133360781,T.A. Ramalingam Chettiar Higher Secondary School,,school,school,,,,11.0238802,76.948577,True,True,education_osm_20261013T085408Z.json
+way,133360789,way/133360789,Nehru maha vidhyalaya,,school,school,,,,11.0069406,76.9440841,True,True,education_osm_20261013T085408Z.json
+way,133368414,way/133368414,,,school,school,,,,11.0120123,76.9578529,False,True,education_osm_20261013T085408Z.json
+way,133585584,way/133585584,G. D. Matriculation Higher Secondary School,,school,school,,,,11.0000305,76.9655278,True,True,education_osm_20261013T085408Z.json
+way,133585585,way/133585585,Niramla College for Women,,college,college,,,,11.0000423,76.9837036,True,True,education_osm_20261013T085408Z.json
+way,133585670,way/133585670,Bishop Appasamy College,,college,college,,,,11.0041088,76.9767157,True,True,education_osm_20261013T085408Z.json
+way,133586708,way/133586708,Carmel Garden Matriculation Higher Secondary School,,school,school,,,,10.9993669,76.9876201,True,True,education_osm_20261013T085408Z.json
+way,136743589,way/136743589,Kovai Linux Centre,,school,school,,,,11.0156272,76.9655,True,True,education_osm_20261013T085408Z.json
+way,150446612,way/150446612,Ramalingam Primary School,,school,school,,,,11.0256049,76.9510321,True,True,education_osm_20261013T085408Z.json
+way,171859675,way/171859675,KSIRS,,school,school,,,,11.066549,76.9885434,True,True,education_osm_20261013T085408Z.json
+way,172004025,way/172004025,KGISL IIM,,college,college,,,,11.0834337,76.99715,True,True,education_osm_20261013T085408Z.json
+way,172004028,way/172004028,KGISL Institute of Technology,,college,college,,,,11.0849024,76.9981798,True,True,education_osm_20261013T085408Z.json
+way,172010116,way/172010116,Maharishi Vidhya Mandir,,school,school,,,,11.0813656,76.9819002,True,True,education_osm_20261013T085408Z.json
+way,172011146,way/172011146,,,school,school,,,,11.0662931,76.9852793,False,True,education_osm_20261013T085408Z.json
+way,172011150,way/172011150,,,school,school,,,,11.0657682,76.9854401,False,True,education_osm_20261013T085408Z.json
+way,172011151,way/172011151,,,school,school,,,,11.0658314,76.9858755,False,True,education_osm_20261013T085408Z.json
+way,172011154,way/172011154,,,school,school,,,,11.0663263,76.9859142,False,True,education_osm_20261013T085408Z.json
+way,172011156,way/172011156,,,school,school,,,,11.066335,76.9856949,False,True,education_osm_20261013T085408Z.json
+way,172099501,way/172099501,,,college,college,,,,10.9980382,76.9719136,False,True,education_osm_20261013T085408Z.json
+way,191213095,way/191213095,Jayendra Saraswathi College,,college,college,,,,11.0077115,77.0437771,True,True,education_osm_20261013T085408Z.json
+way,194879734,way/194879734,Ruby Matriculation School,,school,school,,,,11.0824185,77.0017383,True,True,education_osm_20261013T085408Z.json
+way,196061752,way/196061752,Info Institute of Engineering,,college,college,,,,11.1272103,77.0392923,True,True,education_osm_20261013T085408Z.json
+way,196841575,way/196841575,Chandrakanthi Public School,,school,school,,,,11.0449645,77.0289566,True,True,education_osm_20261013T085408Z.json
+way,196841577,way/196841577,Chandra Matriculation Higher Secondary School,,school,school,,,,11.044117,77.0297285,True,True,education_osm_20261013T085408Z.json
+way,230401642,way/230401642,Sankara Polytechnic,,college,college,,,,11.0856443,76.9861044,True,True,education_osm_20261013T085408Z.json
+way,238707846,way/238707846,Corporation School,,school,school,,,,11.0314827,76.9449978,True,True,education_osm_20261013T085408Z.json
+way,238707848,way/238707848,Corporation School,,school,school,,,,11.0312216,76.9444902,True,True,education_osm_20261013T085408Z.json
+way,239032820,way/239032820,St. Thomas Higher Secondary School,,school,school,,,,11.0351952,76.9447268,True,True,education_osm_20261013T085408Z.json
+way,240742622,way/240742622,Sri Sakthi Institute of Engineering and Technology,,college,college,,college,,11.0396695,77.0754399,True,True,education_osm_20261013T085408Z.json
+way,253031825,way/253031825,Department of Computer Science,,educational_institution,,educational_institution,,,11.0378165,76.882224,True,True,education_osm_20261013T085408Z.json
+way,254810517,way/254810517,Jaycee Higher Secondary School,,school,school,,,,11.0373253,76.914008,True,True,education_osm_20261013T085408Z.json
+way,256554193,way/256554193,Kirthilal Metha Convention Centre,,educational_institution,,educational_institution,,,11.0381091,76.8799614,True,True,education_osm_20261013T085408Z.json
+way,262854343,way/262854343,Manchester International School,,school,school,,school,,11.0845086,76.962049,True,True,education_osm_20261013T085408Z.json
+way,264275650,way/264275650,National Model Matriculation school,,school,school,,,,11.017381,77.0119203,True,True,education_osm_20261013T085408Z.json
+way,293066627,way/293066627,Devanga High School,,school,school,,,,11.0080335,76.9590833,True,True,education_osm_20261013T085408Z.json
+way,323421077,way/323421077,CBM College,,college,college,,,,10.9382903,76.9368655,True,True,education_osm_20261013T085408Z.json
+way,335860767,way/335860767,Samskaara Academy,,educational_institution,,educational_institution,,,11.0013419,77.0486512,True,True,education_osm_20261013T085408Z.json
+way,357082017,way/357082017,South India Textile Research Association - SITRA,,college,college,,,,11.0396478,77.0355493,True,True,education_osm_20261013T085408Z.json
+way,361362353,way/361362353,Vivekam CBSE School,,school,school,,,,11.0791972,76.9954015,True,True,education_osm_20261013T085408Z.json
+way,366991115,way/366991115,Industrial Technical Institute (ITI),,college,college,,,,11.0539711,76.9438762,True,True,education_osm_20261013T085408Z.json
+way,373410449,way/373410449,CSI(Church of South India) Boys Higher Secondary School,,school,school,,,,10.9968977,76.9648158,True,True,education_osm_20261013T085408Z.json
+way,374784185,way/374784185,,,school,school,,,,10.996211,76.9626716,False,True,education_osm_20261013T085408Z.json
+way,374788422,way/374788422,Saraswati Ramachandran Higher Secondary School,,school,school,,,,10.9538784,76.9617113,True,True,education_osm_20261013T085408Z.json
+way,377992179,way/377992179,Govt.Womens Arts College,,college,college,,,,10.9932946,76.9630147,True,True,education_osm_20261013T085408Z.json
+way,380074155,way/380074155,"Government Law College, Coimbatore",,college,college,,,,11.0426619,76.8677195,True,True,education_osm_20261013T085408Z.json
+way,380074156,way/380074156,Law College Hostel,,college,college,,,,11.0438623,76.8683202,True,True,education_osm_20261013T085408Z.json
+way,380080898,way/380080898,Chavara Vidya Bhavan,,school,school,,,,11.0428698,76.8923153,True,True,education_osm_20261013T085408Z.json
+way,382602878,way/382602878,Alvernia Higher Secondary Matriculation School,,school,school,,,,10.9981807,77.0027548,True,True,education_osm_20261013T085408Z.json
+way,382603284,way/382603284,Corporation Boys High School,,school,school,,,,10.9964338,76.9941036,True,True,education_osm_20261013T085408Z.json
+way,382609758,way/382609758,Balaji Driving School,,school,school,,,,10.9847217,77.0022413,True,True,education_osm_20261013T085408Z.json
+way,382610267,way/382610267,BVM Global School,,school,school,,,,10.9896337,77.0092929,True,True,education_osm_20261013T085408Z.json
+way,382611017,way/382611017,Nirmal Matha Matric Higher Secondary School,,school,school,,,,10.969048,77.0029808,True,True,education_osm_20261013T085408Z.json
+way,414348755,way/414348755,Kadri Mills Higher Secondary School,,school,school,,,,11.0058181,77.0664118,True,True,education_osm_20261013T085408Z.json
+way,414348756,way/414348756,Govt Boys Higher Secondary School,,school,school,,,,11.0050942,77.045891,True,True,education_osm_20261013T085408Z.json
+way,414387495,way/414387495,KPR Educational Institutions,,college,college,,college,,11.0782065,77.1385899,True,True,education_osm_20261013T085408Z.json
+way,436191202,way/436191202,,,college,college,,college,,10.8785792,77.0203722,False,True,education_osm_20261013T085408Z.json
+way,442362014,way/442362014,St.ann's matric hr sec School,,school,school,,,St.Ann's sisters of hyderabad province,10.8748031,76.9294603,True,True,education_osm_20261013T085408Z.json
+way,442527694,way/442527694,Kendriya Vidyalaya Main,,school,school,,,,11.0082279,76.9981237,True,True,education_osm_20261013T085408Z.json
+way,442527695,way/442527695,Kendriya Vidyalaya,,school,school,,,,11.009616,76.998498,True,True,education_osm_20261013T085408Z.json
+way,442528849,way/442528849,Ruh Continuum School,,school,school,,,,11.0057581,76.9894415,True,True,education_osm_20261013T085408Z.json
+way,497316925,way/497316925,Annai Meenakshi College of Nursing,,college,college,,,,10.9408884,76.9820122,True,True,education_osm_20261013T085408Z.json
+way,497320755,way/497320755,Muthus College of Nursing,,college,college,,,,10.8956455,76.9371107,True,True,education_osm_20261013T085408Z.json
+way,497331703,way/497331703,SMS College of Arts & Science,,college,college,,,,10.9819257,76.9225488,True,True,education_osm_20261013T085408Z.json
+way,501125927,way/501125927,PSG Institute of Medical sciences & research,,college,college,,,,11.0187794,77.0088913,True,True,education_osm_20261013T085408Z.json
+way,510056322,way/510056322,Nightingale Institute of Nursing,,college,college,,,,10.8985285,76.9469322,True,True,education_osm_20261013T085408Z.json
+way,510067114,way/510067114,Govt Higher Secondary School,,school,school,,,,10.9095946,76.9666498,True,True,education_osm_20261013T085408Z.json
+way,510067122,way/510067122,Rathinam Intl Public School,,school,school,,,,10.9284274,76.9727038,True,True,education_osm_20261013T085408Z.json
+way,533339311,way/533339311,C S Academy International School,,college,college,,,,10.929718,76.9217435,True,True,education_osm_20261013T085408Z.json
+way,533339313,way/533339313,Sri Krishna College of Technology,,college,college,,,,10.9257911,76.9240192,True,True,education_osm_20261013T085408Z.json
+way,573256180,way/573256180,RKV Secondary School-Pirivu,,school,school,,,,10.9525393,76.9521295,True,True,education_osm_20261013T085408Z.json
+way,573256962,way/573256962,Nehru College of Aeronautics & Applied Science,,college,college,,,,10.9554086,76.9545333,True,True,education_osm_20261013T085408Z.json
+way,580402283,way/580402283,Amrita Vidyalayam - Ettimadai,,school,school,,,,10.8854855,76.9082626,True,True,education_osm_20261013T085408Z.json
+way,580406524,way/580406524,Acharya Western Ghats International School,,school,school,,,,10.8898808,76.9001664,True,True,education_osm_20261013T085408Z.json
+way,580406526,way/580406526,Sri Venketeswara College of Computer,,college,college,,,,10.8872653,76.8993617,True,True,education_osm_20261013T085408Z.json
+way,580406527,way/580406527,Sree Narayana Guru College,,college,college,,,,10.8744041,76.8912318,True,True,education_osm_20261013T085408Z.json
+way,580408780,way/580408780,Sree Narayana Guru Institute of Management,,college,college,,,,10.8724394,76.8863557,True,True,education_osm_20261013T085408Z.json
+way,580411118,way/580411118,Guruvayurappan Institute of Management,,college,college,,,,10.8690231,76.8815331,True,True,education_osm_20261013T085408Z.json
+way,580413178,way/580413178,Easa College of Engg & Technology,,college,college,,,,10.8629264,76.8818524,True,True,education_osm_20261013T085408Z.json
+way,580416856,way/580416856,JSS Institute of Naturopathy,,college,college,,,,10.8595096,76.881871,True,True,education_osm_20261013T085408Z.json
+way,580416860,way/580416860,AJK College of Arts & Science,,college,college,,,,10.8562937,76.8723413,True,True,education_osm_20261013T085408Z.json
+way,580416865,way/580416865,"Dhanalaxmi Srinivasan College of Engineering, Navakkarai Coimbatore",,college,college,,,,10.8564563,76.8671442,True,True,education_osm_20261013T085408Z.json
+way,592275141,way/592275141,Sri Krishna College of Engineering,,college,college,,,,10.9369575,76.9573834,True,True,education_osm_20261013T085408Z.json
+way,592282592,way/592282592,Kuniamuthur High School,,school,school,,,,10.9680886,76.9569118,True,True,education_osm_20261013T085408Z.json
+way,593071385,way/593071385,Chinmaya Vidyalaya,,school,school,,,,11.0251479,76.8984548,True,True,education_osm_20261013T085408Z.json
+way,593412907,way/593412907,P.R.Sidha Naidu Memorial Matriculation School,,school,school,,,Rukumani Ammal Trust,11.0221095,76.9765594,True,True,education_osm_20261013T085408Z.json
+way,594820444,way/594820444,KPM M HSS Coimbatore,,school,school,,,,10.9339263,76.9789068,True,True,education_osm_20261013T085408Z.json
+way,636911621,way/636911621,Karpagam Medical College & Hospital,,college,college,,,,10.8855835,77.0080038,True,True,education_osm_20261013T085408Z.json
+way,640186866,way/640186866,Sri Sakthi Matriculation Higher Secondary School,,school,school,,,,10.9363705,77.0228459,True,True,education_osm_20261013T085408Z.json
+way,640186875,way/640186875,The Samhita Academy-Coimbatore,,college,college,,,,10.9259321,77.0102708,True,True,education_osm_20261013T085408Z.json
+way,640187448,way/640187448,Shri Nehru Mahavidyalaya College of Arts & Science,,college,college,,,,10.9207086,77.0091317,True,True,education_osm_20261013T085408Z.json
+way,640190764,way/640190764,Global Pathways International School,,school,school,,,,10.9058287,77.0419313,True,True,education_osm_20261013T085408Z.json
+way,640191051,way/640191051,Karpagam Academy of Higher Education,,college,college,,,,10.9175939,76.9882369,True,True,education_osm_20261013T085408Z.json
+way,640191052,way/640191052,Karpagam Polytechnic College,,college,college,,,,10.9185202,76.99131,True,True,education_osm_20261013T085408Z.json
+way,640191616,way/640191616,Vedanta Academy CBSE School,,school,school,,,,10.8962411,76.9742624,True,True,education_osm_20261013T085408Z.json
+way,640193713,way/640193713,Coimbature Marine College,,college,college,,,,10.8627423,77.0107491,True,True,education_osm_20261013T085408Z.json
+way,640193715,way/640193715,Sasi Creative School for Architecture,,school,school,,,,10.8613583,77.0118878,True,True,education_osm_20261013T085408Z.json
+way,640193716,way/640193716,Amrita Vishwa Vidyapeetham,,university,university,,university,Mata Amritanandamayi Math,10.8531706,77.0350164,True,True,education_osm_20261013T085408Z.json
+way,640199278,way/640199278,Suguna Group of Institutions,,university,university,,,,11.0506228,77.0323105,True,True,education_osm_20261013T085408Z.json
+way,640199279,way/640199279,Suguna PIP School,,school,school,,,,11.0506349,77.0314152,True,True,education_osm_20261013T085408Z.json
+way,640199280,way/640199280,Suguna College of Engg & Polytechnic,,university,university,,,,11.0501473,77.0322958,True,True,education_osm_20261013T085408Z.json
+way,640201443,way/640201443,Suguna Driving School,,school,school,,,,11.0509805,77.0344455,True,True,education_osm_20261013T085408Z.json
+way,640203448,way/640203448,Park Global School,,school,school,,,,11.0424178,77.038601,True,True,education_osm_20261013T085408Z.json
+way,640205582,way/640205582,Sardar Vallabhbhai Patel International School of Textiles & Management,,school,school,,,,11.0253598,77.0082319,True,True,education_osm_20261013T085408Z.json
+way,640205722,way/640205722,PSG Sarva Jana Higher Secondary School,,school,school,,,,11.0227214,77.0040432,True,True,education_osm_20261013T085408Z.json
+way,640205741,way/640205741,PSG Institute of Management,,college,college,,,,11.0228112,77.0030943,True,True,education_osm_20261013T085408Z.json
+way,640205921,way/640205921,PSG Grounds,,college,college,,,,11.0203887,77.0047109,True,True,education_osm_20261013T085408Z.json
+way,640733239,way/640733239,Gedee Public School,,school,school,,,,10.9349543,76.991224,True,True,education_osm_20261013T085408Z.json
+way,640746754,way/640746754,St. Marys School of Nursing,,school,school,,,,10.9621924,76.9861535,True,True,education_osm_20261013T085408Z.json
+way,642860093,way/642860093,SBOA Matriculation Higher Secondary School,,school,school,,,,10.9999245,76.9400907,True,True,education_osm_20261013T085408Z.json
+way,651640776,way/651640776,Seventh Day Adventist Matriculation School,,school,school,,,,11.0078041,76.9617807,True,True,education_osm_20261013T085408Z.json
+way,676189598,way/676189598,KPN School Ground,,school,school,,,,10.9649187,76.9836351,True,True,education_osm_20261013T085408Z.json
+way,676193762,way/676193762,Asharam Matriculation Higher Secondary School,,school,school,,,,10.9535326,76.9300918,True,True,education_osm_20261013T085408Z.json
+way,676199999,way/676199999,Government Higher Secondary School,,school,school,,,,10.9531458,76.9215684,True,True,education_osm_20261013T085408Z.json
+way,685341899,way/685341899,Coimbatore Corporation primary school,,school,school,,,government,11.043591,76.8632671,True,True,education_osm_20261013T085408Z.json
+way,699905435,way/699905435,PSG Institute of Technology and Applied Research,,college,college,,,PSG,11.0677118,77.0945744,True,True,education_osm_20261013T085408Z.json
+way,854415006,way/854415006,Shri chaithanya Techno School,,school,school,,school,,11.0066005,76.9672178,True,True,education_osm_20261013T085408Z.json
+way,965143864,way/965143864,RAK's Pallikoodam,,school,school,,,,11.038148,77.0329057,True,True,education_osm_20261013T085408Z.json
+way,973349415,way/973349415,G.K.D. Matriculation and higher secondary school,,school,school,,school,,11.1497884,76.9556731,True,True,education_osm_20261013T085408Z.json
+way,1067550491,way/1067550491,,,college,college,,,,10.9346345,76.9786042,False,True,education_osm_20261013T085408Z.json
+way,1137830197,way/1137830197,Vincent Matric,,school,school,,,,11.0461708,77.0032939,True,True,education_osm_20261013T085408Z.json
+way,1157856936,way/1157856936,,,college,college,,,,11.0267837,77.0288397,False,True,education_osm_20261013T085408Z.json
+way,1164701243,way/1164701243,,,college,college,,college,,11.0167267,77.103361,False,True,education_osm_20261013T085408Z.json
+way,1167487383,way/1167487383,KPR Mechanical Block,,college,college,,college,,11.0763191,77.1431941,True,True,education_osm_20261013T085408Z.json
+way,1167487384,way/1167487384,KPR Institute of Engineering and Technology,,educational_institution,,educational_institution,,,11.0765789,77.1420576,True,True,education_osm_20261013T085408Z.json
+way,1179956459,way/1179956459,Kalaignar Karunanidhi Institute of Technology,,college,college,,,,10.9992121,77.0842214,True,True,education_osm_20261013T085408Z.json
+way,1179983718,way/1179983718,Primary School,,educational_institution,,educational_institution,,,10.9926231,77.0974935,True,True,education_osm_20261013T085408Z.json
+way,1233871626,way/1233871626,,,school,school,,,,11.0415239,77.0230531,False,True,education_osm_20261013T085408Z.json
+way,1234334631,way/1234334631,,,college,college,,,,10.999226,76.9746876,False,True,education_osm_20261013T085408Z.json
+way,1234548079,way/1234548079,Government Arts College Campus,,college,college,,,,10.9985728,76.9726412,True,True,education_osm_20261013T085408Z.json
+way,1240249370,way/1240249370,Avinashilingam Elimentry School,,school,school,,school,,11.0186311,76.9527651,True,True,education_osm_20261013T085408Z.json
+way,1241139022,way/1241139022,,,school,school,,,,11.0213689,76.9429028,False,True,education_osm_20261013T085408Z.json
+way,1246140277,way/1246140277,KGISL Institute of Information Management,,school,school,,,,11.0834393,76.997046,True,True,education_osm_20261013T085408Z.json
+way,1248290356,way/1248290356,GRG Matriculation Higher Secondary School,,school,school,,,,11.0262054,77.0172608,True,True,education_osm_20261013T085408Z.json
+way,1248294171,way/1248294171,Silambam Adimurai Class,,education_tagged_other,dancing_school,,dancing_school,,11.0173469,77.0049027,True,True,education_osm_20261013T085408Z.json
+way,1251096265,way/1251096265,Coporation Girls Higher Secondary School,,school,school,,school,,11.0136909,76.9610313,True,True,education_osm_20261013T085408Z.json
+way,1251096900,way/1251096900,,,college,college,,college,,11.0244864,76.9768931,False,True,education_osm_20261013T085408Z.json
+way,1253293978,way/1253293978,JK College of Nursing & Para Medicals,,college,college,,college,,11.0102301,77.0211692,True,True,education_osm_20261013T085408Z.json
+way,1253293982,way/1253293982,JK College of Physiotherapy,,college,college,,college,,11.0106652,77.0211809,True,True,education_osm_20261013T085408Z.json
+way,1305268662,way/1305268662,RJ Matriculation Higher Secondary School,,school,school,,school,,11.0687841,77.0183121,True,True,education_osm_20261013T085408Z.json
+way,1305268672,way/1305268672,Amrita Vidyalayam-Kalapatti,,school,school,,,,11.0676357,77.0533114,True,True,education_osm_20261013T085408Z.json
+way,1305268681,way/1305268681,Reeds World School,,school,school,,,,11.0717718,77.0552539,True,True,education_osm_20261013T085408Z.json
+way,1305508627,way/1305508627,M. Nanjappa Chettiar Matriculation Hr. Sec. School,,school,school,,,,11.0715394,77.1039133,True,True,education_osm_20261013T085408Z.json
+way,1305508643,way/1305508643,GRD-CPF Matriculation Higher Secondary School,,school,school,,,,11.061734,77.0928672,True,True,education_osm_20261013T085408Z.json
+way,1305508645,way/1305508645,Sri Vivekananda Matriculation Higher Secondary School,,school,school,,,,11.054695,77.0572126,True,True,education_osm_20261013T085408Z.json
+way,1309435418,way/1309435418,,,school,school,,,,11.0220662,76.9673187,False,True,education_osm_20261013T085408Z.json
+way,1443866756,way/1443866756,Karpagam Play Grounds,,college,college,,,,10.9075802,76.9823246,True,True,education_osm_20261013T085408Z.json
+way,1443872553,way/1443872553,Good Shepherd Seminary,,college,college,,,,10.8691699,77.0125378,True,True,education_osm_20261013T085408Z.json
+way,1443872554,way/1443872554,Dr. V.G.N.M.H.S.S,,school,school,,,,10.881995,77.001133,True,True,education_osm_20261013T085408Z.json
+way,1443872556,way/1443872556,,,college,college,,,,10.8947115,76.9968281,False,True,education_osm_20261013T085408Z.json
+way,1443872557,way/1443872557,Hindusthan College of Engineering,,college,college,,,,10.8923726,76.9931964,True,True,education_osm_20261013T085408Z.json
+way,1443872558,way/1443872558,Angappa College of Arts & Science,,college,college,,,,10.8920302,76.9898892,True,True,education_osm_20261013T085408Z.json
+way,1443876955,way/1443876955,,,college,college,,,,10.9309018,76.9747511,False,True,education_osm_20261013T085408Z.json
+way,1443878498,way/1443878498,PERKS Matriculation Higher Secondary School,,school,school,,,,11.0017539,77.0169833,True,True,education_osm_20261013T085408Z.json
+way,1443879780,way/1443879780,SSVM World School,,school,school,,,,10.9852775,77.0421386,True,True,education_osm_20261013T085408Z.json
+way,1446375196,way/1446375196,TIPS Globe Educate Main Campus-Cbe,,school,school,,school,,11.1264207,77.0413334,True,True,education_osm_20261013T085408Z.json
+way,1447852909,way/1447852909,Peepal Prodigy Senior Secondary School,,school,school,,school,,10.9306335,76.9612734,True,True,education_osm_20261013T085408Z.json
+way,1447859384,way/1447859384,Doon Public School,,school,school,,school,,10.9955726,76.978156,True,True,education_osm_20261013T085408Z.json
+way,1447859385,way/1447859385,Vivekalaya Matriculation Higher Secondary School,,school,school,,school,,10.9962881,76.9786059,True,True,education_osm_20261013T085408Z.json
+way,1447859779,way/1447859779,Kovai Vidya Mandir School,,school,school,,school,,11.0468602,77.0540271,True,True,education_osm_20261013T085408Z.json
+way,1447860087,way/1447860087,Coimbatore Public School,,school,school,,school,,11.0918186,76.9704943,True,True,education_osm_20261013T085408Z.json
+way,1447860559,way/1447860559,Vidya Niketan Public School,,school,school,,school,,11.0097643,76.9905849,True,True,education_osm_20261013T085408Z.json
+way,1447866444,way/1447866444,Vibgyor High School,,school,school,,school,,11.0122706,77.0252325,True,True,education_osm_20261013T085408Z.json
+way,1447866676,way/1447866676,Harvee School,,school,school,,school,,10.9667401,76.9539063,True,True,education_osm_20261013T085408Z.json
+way,1447867414,way/1447867414,National Model Senior Secondary School,,school,school,,school,,11.0174375,77.0121461,True,True,education_osm_20261013T085408Z.json
+way,1447871413,way/1447871413,Camford International School,,school,school,,school,,11.0513571,76.9683332,True,True,education_osm_20261013T085408Z.json
+way,1447874173,way/1447874173,Anan Kids Academy Play School,,school,school,,school,,11.0662133,77.0351863,True,True,education_osm_20261013T085408Z.json
+way,1447876823,way/1447876823,Avatar Public School,,school,school,,school,,10.9293141,77.0221561,True,True,education_osm_20261013T085408Z.json
+way,1447877769,way/1447877769,Bharathiya Vidya Bhavan Matric Higher Secondary,,school,school,,school,,11.0129545,76.949679,True,True,education_osm_20261013T085408Z.json
+way,1447880258,way/1447880258,Delhi Public School Coimbatore,,school,school,,,,11.011111,76.8700061,True,True,education_osm_20261013T085408Z.json
+way,1447995579,way/1447995579,KPR College of Arts Science and Research,,college,college,,college,,11.0805899,77.135967,True,True,education_osm_20261013T085408Z.json
+way,1447995580,way/1447995580,KPR Institute of Engineering,,college,college,,college,,11.0768318,77.1415336,True,True,education_osm_20261013T085408Z.json
+way,1448118135,way/1448118135,Nehru Institute of Engineering and Technology,,college,college,,college,,10.8696648,76.9272209,True,True,education_osm_20261013T085408Z.json
+way,1448120001,way/1448120001,Nehru Institute of Technology,,college,college,,college,,10.8686536,76.9165581,True,True,education_osm_20261013T085408Z.json
+way,1448120002,way/1448120002,Nehru International School,,school,school,,school,,10.8672527,76.9152964,True,True,education_osm_20261013T085408Z.json
+way,1448120003,way/1448120003,Nehru Outbound for Leadership Excellence,,college,college,,college,,10.8693933,76.9185002,True,True,education_osm_20261013T085408Z.json
+way,1448123359,way/1448123359,Kaliyapuram Government School,,school,school,,school,,10.8720124,76.9150418,True,True,education_osm_20261013T085408Z.json
+way,1448124613,way/1448124613,Ellen College of Nursing,,college,college,,college,,10.8522777,76.8669631,True,True,education_osm_20261013T085408Z.json
+way,1448125408,way/1448125408,SAN Academy of Architecture,,college,college,,college,,10.8594962,76.8497534,True,True,education_osm_20261013T085408Z.json
+way,1448235140,way/1448235140,Kumaraguru College of Technology,,college,college,,college,,11.0775628,76.9885481,True,True,education_osm_20261013T085408Z.json
+way,1451311190,way/1451311190,DJ Academy of Design and Management,,college,college,,college,,10.8731595,77.0046603,True,True,education_osm_20261013T085408Z.json
+way,1452636746,way/1452636746,Cricket Ground,,college,college,,college,,10.8810506,77.0209257,True,True,education_osm_20261013T085408Z.json
+way,1452636757,way/1452636757,Bus - Parking,,college,college,,college,,10.8811199,77.0232903,True,True,education_osm_20261013T085408Z.json
+way,1460007334,way/1460007334,Islamiyah Matriculation Higher Secondary School,,school,school,,school,,10.9750035,76.9646993,True,True,education_osm_20261013T085408Z.json
+way,1460012657,way/1460012657,Texcity College of Nursing,,college,college,,college,,10.9708945,76.9713304,True,True,education_osm_20261013T085408Z.json
+way,1460013056,way/1460013056,Sengotiah School Grounds,,school,school,,school,,10.9552217,76.9784538,True,True,education_osm_20261013T085408Z.json
+way,1464554774,way/1464554774,SNGPC Polytechnic Madukkarai,,college,college,,college,,10.8910117,76.9276629,True,True,education_osm_20261013T085408Z.json
+way,1464555448,way/1464555448,Kalaivani Model Matriculation School,,school,school,,school,,10.8939431,76.9554815,True,True,education_osm_20261013T085408Z.json
+way,1464556852,way/1464556852,Texcity Arts & Science College,,college,college,,college,,10.8923637,76.9552388,True,True,education_osm_20261013T085408Z.json
+way,1464561917,way/1464561917,Sri Abhirami College of Pharmacy,,college,college,,college,,10.9130784,76.9833733,True,True,education_osm_20261013T085408Z.json
+way,1464562131,way/1464562131,Sri Abhirami College of Nursing,,college,college,,college,,10.9145353,76.9821031,True,True,education_osm_20261013T085408Z.json
+way,1468147279,way/1468147279,Noor Sait Matricultion School,,school,school,,school,,10.9703441,76.9501509,True,True,education_osm_20261013T085408Z.json
+way,1468147282,way/1468147282,GHHS Kurichi School,,school,school,,school,,10.9599928,76.962811,True,True,education_osm_20261013T085408Z.json
+way,1468149230,way/1468149230,Nirmala Matha Convent School-ICSE/ISC,,school,school,,school,,10.9563957,76.9617067,True,True,education_osm_20261013T085408Z.json
+way,1473779914,way/1473779914,RVS Institutions,,college,college,,college,,11.0260341,77.1324383,True,True,education_osm_20261013T085408Z.json
+way,1473779916,way/1473779916,,,college,college,,college,,11.023612,77.1343382,False,True,education_osm_20261013T085408Z.json
+way,1474795578,way/1474795578,Govt High School Marappalam,,school,school,,school,,10.8953751,76.9315817,True,True,education_osm_20261013T085408Z.json
+way,1474801549,way/1474801549,Pichanur Higher Secondary School,,school,school,,school,,10.8599396,76.8945956,True,True,education_osm_20261013T085408Z.json
+way,1474801550,way/1474801550,Happy Valley Business School,,school,school,,school,,10.860745,76.8942031,True,True,education_osm_20261013T085408Z.json
+way,1483841080,way/1483841080,GRG Institutions,,college,college,,college,Govindharajalu,11.0265688,77.0070072,True,True,education_osm_20261013T085408Z.json
+way,1486808706,way/1486808706,Vidya Vikasini Institutions,,school,school,,,,11.0701312,76.9416853,True,True,education_osm_20261013T085408Z.json
+way,1494998246,way/1494998246,,Athul's Academy,school,school,,,,11.0191746,77.0232502,True,True,education_osm_20261013T085408Z.json
+way,1494998247,way/1494998247,,Thagi N G Ramaswamy School,school,school,,,,11.0179681,77.0236149,True,True,education_osm_20261013T085408Z.json
+way,1528968056,way/1528968056,Adwaith Thought Academy,,school,school,,school,,11.0054949,77.0038371,True,True,education_osm_20261013T085408Z.json
+way,1528970689,way/1528970689,Little Flower Children School,,school,school,,school,,11.0138056,77.0062995,True,True,education_osm_20261013T085408Z.json
+way,1531580314,way/1531580314,Lil Pallikudam School,,school,school,,school,,11.0035492,76.9709522,True,True,education_osm_20261013T085408Z.json
+way,1531582973,way/1531582973,ELGI School,,school,school,,school,,10.9663666,77.0059316,True,True,education_osm_20261013T085408Z.json
+way,1531583835,way/1531583835,Nachi Muthu Gounder Rukmani Ammal Elementary School,,school,school,,school,,10.9655286,77.0049453,True,True,education_osm_20261013T085408Z.json
+way,1531592719,way/1531592719,SBIOA Public Senior Secondary School,,school,school,,school,,10.9759362,77.0580987,True,True,education_osm_20261013T085408Z.json
+way,1532396115,way/1532396115,Sri Ramakrishna Institute Of Technology,,college,college,,,,10.944631,76.8996674,True,True,education_osm_20261013T085408Z.json
+way,1536179352,way/1536179352,Geethanjali Matriculation Sxhool,,school,school,,school,,11.0410384,77.0231783,True,True,education_osm_20261013T085408Z.json
+way,1543194285,way/1543194285,Annai Meenakshi College of Nursing,,college,college,,college,,10.9284628,76.9699004,True,True,education_osm_20261013T085408Z.json
+way,1543204091,way/1543204091,Sri Ramakrishna College of Arts & Science,,college,college,,college,,11.0226103,76.9870351,True,True,education_osm_20261013T085408Z.json
+way,1543204092,way/1543204092,Sri Ramakrishna Dental Hospital,,college,college,,college,,11.0222761,76.9882956,True,True,education_osm_20261013T085408Z.json
+way,1544399138,way/1544399138,ECE Department,,college,college,,college,,11.0655311,77.0930992,True,True,education_osm_20261013T085408Z.json
+way,1547173494,way/1547173494,Bridgewoods International School,,educational_institution,,educational_institution,,,11.0154927,77.0997078,True,True,education_osm_20261013T085408Z.json
+way,1551251020,way/1551251020,SNS Institutions,,college,college,,college,,11.0837485,76.9677919,True,True,education_osm_20261013T085408Z.json
+way,1551253099,way/1551253099,SNS Institutions,,college,college,,college,,11.1016825,77.0272607,True,True,education_osm_20261013T085408Z.json
+way,1557251359,way/1557251359,Kennedy Matriculation Higher Secondary School,,school,school,,school,,11.0308913,77.1322967,True,True,education_osm_20261013T085408Z.json
+way,1557252568,way/1557252568,Government Boys Higher Secondary School,,school,school,,school,,11.0267732,77.1207693,True,True,education_osm_20261013T085408Z.json
+way,1557511882,way/1557511882,LNV College of Arts & Science,,college,college,,college,,10.9408713,77.0150532,True,True,education_osm_20261013T085408Z.json
+way,1558056176,way/1558056176,The Indian Public School TIPS,,school,school,,school,,11.0234909,76.9643443,True,True,education_osm_20261013T085408Z.json
+way,1558056177,way/1558056177,Kamarajar Matriculation Higher Secondary School,,school,school,,school,,11.0231696,76.9641055,True,True,education_osm_20261013T085408Z.json
+way,1558056686,way/1558056686,Indian Public School Avinashi Road,,school,school,,school,,11.0062534,76.9766623,True,True,education_osm_20261013T085408Z.json
+way,1558061081,way/1558061081,Orchids the International School,,school,school,,school,,11.0679976,77.0110456,True,True,education_osm_20261013T085408Z.json
+way,1558062040,way/1558062040,Kathir Institutions,,college,college,,college,,11.0683909,77.0811838,True,True,education_osm_20261013T085408Z.json
+way,1558067481,way/1558067481,SRP Ponnuswamy Chettiar Sundrammal Vidhyalaya Matric School,,school,school,,school,,11.013235,76.9469657,True,True,education_osm_20261013T085408Z.json
+way,1558068847,way/1558068847,St. Antonys Boys School,,school,school,,school,,11.004188,76.9899879,True,True,education_osm_20261013T085408Z.json
+way,1558071236,way/1558071236,Lisieux Matriculation Higher Secondary School,,school,school,,school,,11.0213975,76.9428793,True,True,education_osm_20261013T085408Z.json
+way,1558071876,way/1558071876,Lisieux International School CMI,,school,school,,school,,11.0215462,76.9438373,True,True,education_osm_20261013T085408Z.json
+way,1558076257,way/1558076257,Hindusthan School of Management,,college,college,,college,,11.0124578,76.9927776,True,True,education_osm_20261013T085408Z.json
+way,1558239175,way/1558239175,Brindhavan Vidyalaya Public School,,school,school,,school,,10.9149408,76.9677808,True,True,education_osm_20261013T085408Z.json
+way,1559002255,way/1559002255,Spectrum Northern Lights School,,school,school,,school,,10.998815,77.0036627,True,True,education_osm_20261013T085408Z.json
+way,1559242704,way/1559242704,KSG College of Arts & Science,,college,college,,college,,11.0105871,77.0217954,True,True,education_osm_20261013T085408Z.json
+way,1559244466,way/1559244466,St. Josephs Matriculation School,,school,school,,school,,11.0043647,77.0451705,True,True,education_osm_20261013T085408Z.json
+way,1559244467,way/1559244467,Stars Special School,,school,school,,school,,11.0051289,77.044762,True,True,education_osm_20261013T085408Z.json
+way,1559245744,way/1559245744,Corporation High School,,school,school,,school,,11.0053175,77.0334189,True,True,education_osm_20261013T085408Z.json
+way,1560198312,way/1560198312,the First School,,school,school,,school,,11.1085044,76.9269548,True,True,education_osm_20261013T085408Z.json
+way,1560199890,way/1560199890,CRPF Training College,,college,college,,college,,11.1121609,76.9136309,True,True,education_osm_20261013T085408Z.json
+way,1560204303,way/1560204303,Adithya International CBSE School,,school,school,,school,,11.112659,76.9698511,True,True,education_osm_20261013T085408Z.json
+way,1560205127,way/1560205127,Bharathiya Vidya Bhavan,,school,school,,school,,11.0144837,76.8852774,True,True,education_osm_20261013T085408Z.json
+way,1560205720,way/1560205720,Prakriya International School,,school,school,,school,,10.9965289,76.9910888,True,True,education_osm_20261013T085408Z.json
+way,1560814627,way/1560814627,Coimbatore Medical College Hospital,,college,college,,college,,11.0291904,77.0217492,True,True,education_osm_20261013T085408Z.json
+way,1560817425,way/1560817425,G Ramaswamy Naidu Matriculation School,,school,school,,school,,11.0303727,77.0262474,True,True,education_osm_20261013T085408Z.json
+way,1560818865,way/1560818865,GRD Public School,,school,school,,school,,11.0332296,77.029995,True,True,education_osm_20261013T085408Z.json
+way,1560818866,way/1560818866,GRD Institute of Science,,college,college,,college,,11.0349223,77.0295945,True,True,education_osm_20261013T085408Z.json
+way,1562245480,way/1562245480,Govt Higher Secondary School,,school,school,,school,,11.0766076,77.0323738,True,True,education_osm_20261013T085408Z.json
+way,1562247043,way/1562247043,The Ideal Mount Litera Zee school,,school,school,,school,,11.0976259,77.0440094,True,True,education_osm_20261013T085408Z.json
+way,1562247332,way/1562247332,The Indian Public School Pethanayakanpalayam,,school,school,,school,,11.1199943,77.0430334,True,True,education_osm_20261013T085408Z.json
+way,1562248080,way/1562248080,,,college,college,,college,,11.1270027,77.0388986,False,True,education_osm_20261013T085408Z.json
+relation,2294124,relation/2294124,Admin Block,,college,college,,,,11.0776231,76.9895175,True,True,education_osm_20261013T085408Z.json
+relation,2294158,relation/2294158,,,college,college,,,,11.0815554,76.9972969,False,True,education_osm_20261013T085408Z.json
+relation,2294163,relation/2294163,CMS College of Science and Commerce,,college,college,,,,11.0739908,76.9813076,True,True,education_osm_20261013T085408Z.json
+relation,2644649,relation/2644649,KK Naidu Higher Secondary School,,school,school,,,,11.0340927,77.0311224,True,True,education_osm_20261013T085408Z.json
+relation,5195472,relation/5195472,Gopal Naidu School,,school,school,,,,11.0274244,76.9937419,True,True,education_osm_20261013T085408Z.json
+relation,7908018,relation/7908018,Tamil Nadu Agricultural University,,university,university,,,,11.0155457,76.9314878,True,True,education_osm_20261013T085408Z.json
+relation,14551221,relation/14551221,Ramakrishna Mission Vidyalaya,,school,school,,,,11.141554,76.9438051,True,True,education_osm_20261013T085408Z.json
+relation,19848205,relation/19848205,Karpagam Institute of Technology,,college,college,,,,10.9085711,76.9796503,True,True,education_osm_20261013T085408Z.json
