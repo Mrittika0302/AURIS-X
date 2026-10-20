@@ -27,3 +27,9 @@ data/population/*.tif
 cache/
 reports/
 .vscode/
+
+# Local backup copies
+*.bak
+*.backup*
+*.before_*
+*.pre_*
